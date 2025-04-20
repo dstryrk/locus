@@ -1,0 +1,128 @@
+Providence,Max Barry,3.86
+Chosen Spirits,Samit Basu,3.3
+Tender Is the Flesh,Agustina Bazterrica,3.82
+Machine,Elizabeth Bear,3.93
+Ghost Species,James Bradley,3.7
+Failed State,Christopher Brown,3.92
+The Book of Koli,M.R. Carey,4.01
+Bridge 108,Anne Charnock,3.59
+Attack Surface,Cory Doctorow,3.96
+City Under the Stars,Gardner Dozois & Michael Swanwick,3.46
+Unconquerable Sun,Kate Elliott,3.91
+Agency,William Gibson,3.81
+The Relentless Moon,Mary Robinette Kowal,4.37
+The Eleventh Gate,Nancy Kress,3.52
+The Arrest,Jonathan Lethem,3.15
+War of the Maps,Paul McAuley,3.66
+Pacific Storm,Linda Nagata,4.06
+Driving the Deep,Suzanne Palmer,4.36
+The Evidence,Christopher Priest,3.37
+Bone Silence,Alastair Reynolds,3.89
+The Ministry for the Future,Kim Stanley Robinson,0.0
+The Last Emperox,John Scalzi,4.12
+Network Effect,Martha Wells,4.48
+Fleet Elements,Walter Jon Williams,4.07
+Interlibrary Loan,Gene Wolfe,3.07
+The Trouble with Peace,Joe Abercrombie,4.6
+The Angel of the Crows,Katherine Addison,3.8
+Providence,Max Barry,3.86
+Chosen Spirits,Samit Basu,3.3
+Tender Is the Flesh,Agustina Bazterrica,3.82
+Machine,Elizabeth Bear,3.93
+Ghost Species,James Bradley,3.7
+Failed State,Christopher Brown,3.92
+The Book of Koli,M.R. Carey,4.01
+Bridge 108,Anne Charnock,3.59
+Attack Surface,Cory Doctorow,3.96
+City Under the Stars,Gardner Dozois & Michael Swanwick,3.46
+Unconquerable Sun,Kate Elliott,3.91
+Agency,William Gibson,3.81
+Anthropocene Rag,Alex Irvine,0
+The Relentless Moon,Mary Robinette Kowal,4.37
+The Eleventh Gate,Nancy Kress,3.52
+The Arrest,Jonathan Lethem,3.15
+War of the Maps,Paul McAuley,3.66
+Pacific Storm,Linda Nagata,4.06
+Driving the Deep,Suzanne Palmer,4.36
+The Evidence,Christopher Priest,3.37
+Bone Silence,Alastair Reynolds,3.89
+The Ministry for the Future,Kim Stanley Robinson,0.0
+The Last Emperox,John Scalzi,4.12
+Network Effect,Martha Wells,4.48
+Fleet Elements,Walter Jon Williams,4.07
+Interlibrary Loan,Gene Wolfe,3.07
+The Trouble with Peace,Joe Abercrombie,4.6
+The Angel of the Crows,Katherine Addison,3.8
+We Ride Upon Sticks,Quan Barry  [moved from YA],0
+Piranesi,Susanna Clarke,4.23
+The Book of Lamps and Banners,Elizabeth Hand,3.67
+The Sunken Land Begins to Rise Again,M. John Harrison,3.41
+The Once and Future Witches,Alix E. Harrow,0.0
+The Harpy,Megan Hunter,3.32
+The City We Became,N.K. Jemisin,2.8
+Trouble the Saints,Alaya Dawn Johnson,3.38
+Phoenix Extravagant,Yoon Ha Lee,3.7
+The Blade Between,Sam J. Miller,3.47
+A Children’s Bible,Lydia Millet,3.73
+Utopia Avenue,David Mitchell,4.0
+Harrow the Ninth,Tamsyn Muir,0.0
+The Left-Handed Booksellers of London,Garth Nix,3.87
+How to Rule an Empire and Get Away with It,K.J. Parker,4.09
+Mordew,Alex Pheby,3.57
+Stormsong,C.L. Polk,3.9
+The Midnight Bargain,C.L. Polk,3.76
+Black Sun,Rebecca Roanhorse,0.0
+The Invisible Life of Addie LaRue,V.E. Schwab,4.2
+Creatures of Charm and Hunger,Molly Tanzer,3.74
+By Force Alone,Lavie Tidhar,3.69
+Or What You Will,Jo Walton,3.78
+Comet Weather,Liz Williams,4.22
+Interior Chinatown,Charles Yu,5.0
+Devolution,Max Brooks,3.91
+Plain Bad Heroines,Emily M. Danforth,3.66
+Empire of Wild,Cherie Dimaline ),0.0
+Beowulf,Maria Dahvana Headley,3.48
+The Southern Book Club’s Guide to Slaying Vampires,Grady Hendrix,4.0
+Sisters,Daisy Johnson,3.48
+The Only Good Indians,Stephen Graham Jones,4.0
+The Deep,Alma Katsu,3.33
+The Hollow Places,T. Kingfisher,3.8
+Mexican Gothic,Silvia Moreno-Garcia,3.47
+The Hole,Hiroko Oyamada,3.51
+Catherine House,Elisabeth Thomas,3.11
+Survivor Song,Paul Tremblay,3.63
+Red Hood,Elana K. Arnold,3.47
+Over the Woodward Wall,A. Deborah Baker,3.69
+The Silvered Serpents,Roshani Chokshi,4.1
+The Scapegracers,Hannah Abigail Clarke,0
+Legendborn,Tracy Deonn,3.5
+Deathless Divide,Justina Ireland,4.16
+A Wizard’s Guide to Defensive Baking,T. Kingfisher,4.14
+Dark and Deepest Red,Anna-Marie McLemore,3.58
+A Song Below Water,Bethany C. Morrow,0.0
+Burn,Patrick Ness,3.75
+Shadowshaper Legacy,Daniel José Older,4.25
+The Faithless Hawk,Margaret Owen,4.31
+Race to the Sun,Rebecca Roanhorse,4.05
+A Peculiar Peril,Jeff VanderMeer,3.22
+The Wall,Gautam Bhatia,4.02
+Every Bone a Prayer,Ashley Blooms,3.56
+The Twice-Drowned Saint,C.S.E. Cooney,4.41
+The Year of the Witching,Alexis Henderson,3.82
+The Vanished Birds,Simon Jimenez,4.07
+Vagabonds,Hao Jingfang,3.4
+The Space Between Worlds,Micaiah Johnson,3.95
+Stonefish,Scott R. Jones,3.74
+The Unspoken Name,A.K. Larkwood,3.73
+Elatsoe,Darcie Little Badger,0.0
+Beneath the Rising,Premee Mohamed,3.5
+Kim Jiyoung,Born 1982,4.18
+Architects of Memory,Karen Osborne,3.62
+Eartheater,Dolores Reyes,3.61
+Little Eyes,Samanta Schweblin,3.61
+The Bone Shard Daughter,Andrea Stewart,4.02
+Star Daughter,Shveta Thakrar,3.31
+Cemetery Boys,Aiden Thomas,0.0
+The Mermaid,the Witch,3.81
+Hench,Natalie Zina Walschots,4.03
+Love and Other Thought Experiments,Sophie Ward,3.6
