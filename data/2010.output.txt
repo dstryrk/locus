@@ -1,0 +1,71 @@
+Yarn,Jon Armstrong,0.0
+Zero History,William Gibson,0.0
+Birdbrain,Johanna Sinisalo,0.0
+Blackout,Connie Willis,0.0
+The Jade Man's Skin,Daniel Fox,0
+The Folding Knife,K. J. Parker,0.0
+The Sorcerer's House,Gene Wolfe,0.0
+Monsters of Men,Patrick Ness,0.0
+Fever Crumb,Philip Reeve,0.0
+The Replacement,Brenna Yovanoff,0.0
+Chill,Elizabeth Bear,1.0
+The Loving Dead,Amelia Beamer,2.84
+Brain Thief,Alexander Jablokov,2.98
+Shades of Grey,Jasper Fforde,3.0
+Meeks,Julia Holmes,3.16
+Noise,Darin Bradley,3.2
+Clowns at Midnight,Terry Dowling,3.22
+The Last Page,Anthony Huso,3.27
+Directive 51,John Barnes,3.36
+A Dark Matter,Peter Straub,3.37
+Hull Zero Three,Greg Bear,3.41
+Mockingjay,Suzanne Collins,3.43
+How to Live Safely in a Science Fictional Universe,Charles Yu,3.45
+A Book of Tongues,Gemma Files,3.47
+Zendegi,Greg Egan,3.49
+The Dream of Perpetual Motion,Dexter Palmer,3.49
+Zoo City,Lauren Beukes,3.5
+The Thousand Autumns of Jacob de Zoet,David Mitchell,3.5
+Who Fears Death,Nnedi Okorafor,3.5
+Shades of Milk and Honey,Mary Robinette Kowal,3.51
+The House of Discarded Dreams,Ekaterina Sedia,3.52
+Starbound,Joe Haldeman,3.53
+The Native Star,M. K. Hobson,3.56
+Kraken,China Miéville,3.62
+Sleepless,Charlie Huston,3.67
+The Bookman,Lavie Tidhar,3.67
+Kings of the North,Cecelia Holland,3.7
+The Boneshaker,Kate Milford,3.74
+The Half-Made World,Felix Gilman,3.76
+Kid vs. Squid,Greg van Eekhout,3.76
+The Golden Age,Michal Ajvaz,3.79
+The Wolf Age,James Enge,3.79
+The Quantum Thief,Hannu Rajaniemi,3.83
+A Matter of Blood,Sarah Pinborough,3.85
+The Dervish House,Ian McDonald,3.86
+Thresholds,Nina Kiriki Hoffman,3.89
+Enchanted Glass,Diana Wynne Jones,3.89
+The Hundred Thousand Kingdoms,N. K. Jemisin,3.89
+The Habitation of the Blessed,Catherynne M. Valente,3.91
+Horns,Joe Hill,3.93
+The Bards of Bone Plain,Patricia A. McKillip,3.96
+Changeless,Gail Carriger,3.99
+The Passage,Justin Cronin,4.03
+CryoBurn,Lois McMaster Bujold,4.08
+The Bird of the River,Kage Baker,4.11
+Hespira,Matthew Hughes,4.13
+Under Heaven,Guy Gavriel Kay,4.17
+Behemoth,Scott Westerfeld,4.17
+Lord Sunday,Garth Nix,4.18
+The Fuller Memorandum,Charles Stross,4.19
+The Desert Spear,Peter V. Brett,4.21
+Factotum,D. M. Cornish,4.25
+Surface Detail,Iain M. Banks,4.27
+Feed,Mira Grant,4.5
+Ship Breaker,Paolo Bacigalupi,4.5
+Redemption in Indigo,Karen Lord,4.5
+I Shall Wear Midnight,Terry Pratchett,4.79
+Terminal World,Alastair Reynolds,5.0
+All Clear,Connie Willis,5.0
+The White Cat,Holly Black,5.0
+Pathfinder,Orson Scott Card,5.0

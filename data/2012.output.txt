@@ -1,0 +1,84 @@
+Bowl of Heaven,Gregory Benford & Larry Niven,0.0
+Arctic Rising,Tobias S. Buckell,0.0
+Intrusion,Ken MacLeod,0.0
+In the Mouth of the Whale,Paul McAuley,0.0
+Ashes of Candesce,Karl Schroeder,0.0
+The Fourth Wall,Walter Jon Williams,0.0
+The Troupe,Robert Jackson Bennett,0.0
+The Ruined City,Paula Brandon,0.0
+Bullettime,Nick Mamatas,0.0
+Crandolin,Anna Tambour,0.0
+Worldsoul,Liz Williams,0.0
+A Face Like Glass,Frances Hardinge,0.0
+Railsea,China Miéville,0.0
+The Girl Who Fell Beneath Fairyland and Led the Revels There,Catherynne M. Valente,0.0
+Sanctum,Sarah Fine,0.0
+Alif the Unseen,G. Willow Wilson,0.0
+Bad Glass,Richard E. Gropp,3.18
+Charlotte Markham and the House of Darkling,Michael Boccacino,3.28
+Lost Everything,Brian Francis Slattery,3.37
+The Rapture of the Nerds,Cory Doctorow & Charles Stross,3.39
+Blackwood,Gwenda Bond,3.4
+Any Day Now,Terry Bisson,3.42
+Wide Open,Deborah Coates,3.43
+vN,Madeline Ashby,3.44
+Queen's Hunt,Beth Bernobich,3.47
+The Games,Ted Kosmatka,3.5
+2312,Kim Stanley Robinson,3.52
+Slow Apocalypse,John Varley,3.52
+Goblin Secrets,William Alexander,3.55
+Team Human,Justine Larbalestier & Sarah Rees Brennan,3.57
+Some Kind of Fairy Tale,Graham Joyce,3.6
+Hide Me Among the Graves,Tim Powers,3.6
+The Mirage,Matt Ruff,3.6
+The Man from Primrose Lane,James Renner,3.63
+Throne of the Crescent Moon,Saladin Ahmed,3.65
+Boneland,Alan Garner,3.68
+Blueprints of the Afterlife,Ryan Boudinot,3.69
+Jack Glass,Adam Roberts,3.69
+Sea Hearts,Margo Lanagan,3.69
+The Drowning Girl,Caitlín R. Kiernan,3.7
+Radiant Days,Elizabeth Hand,3.72
+Apollo's Outcasts,Allen Steele,3.73
+Turing & Burroughs: A Beatnik SF Novel,Rudy Rucker,3.75
+Glamour in Glass,Mary Robinette Kowal,3.76
+The Last Policeman,Ben H. Winters,3.77
+Be My Enemy,Ian McDonald,3.77
+Empty Space,M. John Harrison,3.81
+Redshirts,John Scalzi,3.87
+Zeuglodon,James P. Blaylock,3.88
+Blue Remembered Earth,Alastair Reynolds,3.89
+Sharps,K. J. Parker,3.89
+Son,Lois Lowry,3.89
+Rituals,Roz Kaveney,3.9
+The Drowned Cities,Paolo Bacigalupi,3.91
+Angelmaker,Nick Harkaway,3.93
+The Diviners,Libba Bray,3.94
+Seraphina,Rachel Hartman,3.94
+Dodger,Terry Pratchett,3.95
+Fate of Worlds,Larry Niven & Edward M. Lerner,3.96
+The Killing Moon,N. K. Jemisin,3.96
+Bitterblue,Kristin Cashore,4.0
+Every Day,David Levithan,4.0
+The Raven Boys,Maggie Stiefvater,4.0
+And Blue Skies from Pain,Stina Leicht,4.02
+The Snow Child,Eowyn Ivey,4.02
+The King's Blood,Daniel Abraham,4.03
+Rapture,Kameron Hurley,4.05
+The Fractal Prince,Hannu Rajaniemi,4.05
+Black Heart,Holly Black,4.05
+The Broken Lands,Kate Milford,4.06
+The Steel Seraglio, Mike Carey,Linda Carey & Louise Carey,4.1
+Days of Blood & Starlight,Laini Taylor,4.13
+Whispers Under Ground,Ben Aaronovitch,4.15
+The Crown of Embers,Rae Carson,4.17
+The Apocalypse Codex,Charles Stross,4.18
+The Hydrogen Sonata,Iain M. Banks,4.2
+Captain Vorpatril's Alliance,Lois Mcmaster Bujold,4.21
+Shadow and Bone,Leigh Bardugo,4.27
+Intruder,C. J. Cherryh,4.32
+Red Country,Joe Abercrombie,4.32
+Caliban's War,James S. A. Corey,4.67
+The Eternal Flame,Greg Egan,5.0
+Pirate Cinema,Cory Doctorow,5.0
+The Chaos,Nalo Hopkinson,5.0

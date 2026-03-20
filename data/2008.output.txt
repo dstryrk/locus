@@ -1,0 +1,67 @@
+City at the End of Time,Greg Bear,0.0
+Incandescence,Greg Egan,0.0
+The Ghost in Love,Jonathan Carroll,0.0
+The Shadow Year,Jeffrey Ford,0.0
+Shadowbridge,Gregory Frost,0.0
+Varanger,Cecelia Holland,0.0
+An Evil Guest,Gene Wolfe,0.0
+Last Dragon,J.T. McDermott,0
+The Cabinet of Wonders,Marie Rutkoski,0.0
+Tender Morsels,Margo Lanagan,0.0
+The Knife of Never Letting Go,Patrick Ness,0.0
+The Engine's Child,Holly Phillips,3.02
+Alive in Necropolis,Doug Dorst,3.27
+How to Ditch Your Fairy,Justine Larbalestier,3.35
+The Knights of the Cornerstone,James P. Blaylock,3.38
+The Ninth Circle,Alex Bell,3.46
+January Dancer,Michael Flynn,3.47
+The Company,K. J. Parker,3.5
+City of Ashes,Cassandra Clare,3.5
+Marsbound,Joe Haldeman,3.56
+Spirit,Gwyneth Jones,3.56
+Saturn's Children,Charles Stross,3.6
+The Hidden World,Paul Park,3.61
+The Enchantress of Florence,Salman Rushdie,3.61
+A Curse as Dark as Gold,Elizabeth C. Bunce,3.61
+The Adoration of Jenna Fox,Mary E. Pearson,3.62
+Flood,Stephen Baxter,3.63
+The Alchemy of Stone,Ekaterina Sedia,3.63
+Singularity's Ring,Paul Melko,3.64
+Escapement,Jay Lake,3.65
+Thunderer,Felix Gilman,3.66
+Weaver,Stephen Baxter,3.68
+The Red Wolf Conspiracy,Robert V. S. Redick,3.7
+Ink Exchange,Melissa Marr,3.7
+The Memoirs of a Master Forger,William Heaney,3.71
+The Dragons of Babel,Michael Swanwick,3.74
+Song of Time,Ian R. MacLeod,3.75
+Implied Spaces,Walter Jon Williams,3.76
+Zoe's Tale,John Scalzi,3.78
+Pandemonium,Daryl Gregory,3.8
+Rolling Thunder,John Varley,3.81
+The Island of Eternal Love,Daina Chaviano,3.81
+Lord Tophet,Gregory Frost,3.82
+Chalice,Robin McKinley,3.84
+Lavinia,Ursula K. Le Guin,3.86
+Black Ships,Jo Graham,3.91
+The Love We Share Without Knowing,Christopher Barzak,3.93
+Half a Crown,Jo Walton,3.94
+Eon: Dragoneye Reborn,Alison Goodman,3.96
+Pirate Sun,Karl Schroeder,3.98
+The Long Look,Richard Parks,3.98
+The Graveyard Book,Neil Gaiman,3.98
+An Autumn War,Daniel Abraham,4.07
+Graceling,Kristin Cashore,4.09
+The Gone-Away World,Nick Harkaway,4.09
+Flora's Dare,Ysabeau S. Wilce,4.09
+Matter,Iain M. Banks,4.11
+Nation,Terry Pratchett,4.11
+Anathem,Neal Stephenson,4.17
+Monster Blood Tattoo, Book Two: Lamplighter,D. M. Cornish,4.22
+House of Suns,Alastair Reynolds,4.24
+The Hunger Games,Suzanne Collins,4.24
+The Painted Man,Peter V. Brett,4.25
+Little Brother,Cory Doctorow,4.33
+The Bell at Sealey Head,Patricia A. McKillip,4.35
+The Night Sessions,Ken MacLeod,5.0
+The Quiet War,Paul McAuley,5.0

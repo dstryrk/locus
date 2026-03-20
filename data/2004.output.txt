@@ -1,0 +1,76 @@
+Life,Gwyneth Jones,0.0
+Lost in Transmission,Wil McCarthy,0.0
+River of Gods,Ian McDonald,0.0
+The Zenith Angle,Bruce Sterling,0.0
+Abarat: Days of Magic, Nights of War,Clive Barker,0.0
+Midnighters, Vol. 1: The Secret Hour,Scott Westerfeld,0
+Move Under Ground,Nick Mamatas,0.0
+Firethorn,Sarah Micklem,0.0
+Trash Sex Magic,Jennifer Stevenson,0.0
+The Arcanum,Thomas Wheeler,0.0
+Olympic Games,Leslie What,3.0
+Through Violet Eyes,Stephen Woodworth,3.0
+One King, One Soldier,Alexander C. Irvine,3.06
+Dead Lines,Greg Bear,3.14
+White Devils,Paul McAuley,3.3
+Cloud Atlas,David Mitchell,3.33
+Basilisk,N. M. Browne,3.34
+For Us, The Living,Robert A. Heinlein,3.39
+The Gods and Their Machines,Oisín McGann,3.39
+In the Night Room,Peter Straub,3.4
+Eastern Standard Tribe,Cory Doctorow,3.47
+Banner of Souls,Liz Williams,3.55
+The Family Trade,Charles Stross,3.55
+Forty Signs of Rain,Kim Stanley Robinson,3.56
+Newton's Wake,Ken MacLeod,3.57
+Air,Geoff Ryman,3.58
+Stamping Butterflies,Jon Courtenay Grimwood,3.59
+Crucible,Nancy Kress,3.59
+The Year of Our War,Steph Swainston,3.6
+The Fourth Circle,Zoran Zivkovic,3.62
+Mortal Love,Elizabeth Hand,3.64
+Dragon's Treasure,Elizabeth A. Lynn,3.65
+Camouflage,Joe Haldeman,3.66
+The Labyrinth,Catherynne M. Valente,3.66
+The Last Guardian of Everness,John C. Wright,3.69
+Iron Council,China Miéville,3.73
+Black Brillion,Matthew Hughes,3.75
+The Witches' Kitchen,Cecelia Holland,3.75
+Perfect Circle,Sean Stewart,3.76
+The Knight,Gene Wolfe,3.77
+Gifts,Ursula K. Le Guin,3.78
+Ghosts in the Snow,Tamara Siler Jones,3.78
+Glass Dragons,Sean McMullen,3.82
+A Handbook of American Prayer,Lucius Shepard,3.82
+The Charnel Prince,Greg Keyes,3.83
+Frek and the Elixir,Rudy Rucker,3.84
+Murder of Angels,Caitlín R. Kiernan,3.86
+Jonathan Strange & Mr Norrell,Susanna Clarke,3.87
+Exultant,Stephen Baxter,3.88
+The Wizard,Gene Wolfe,3.89
+The Coyote Kings of the Space-Age Bachelor Pad,Minister Faust,3.9
+Weapons of Choice,John Birmingham,3.91
+City of Pearl,Karen Traviss,3.92
+Shadowmarch,Tad Williams,3.93
+Spondulix,Paul Di Filippo,3.94
+The Life of the World to Come,Kage Baker,3.95
+Century Rain,Alastair Reynolds,3.95
+Fitzpatrick's War,Theodore Judson,3.97
+Iron Sunrise,Charles Stross,3.98
+The Dark Tower: Song of Susannah,Stephen King,4.0
+Kingdom of the Golden Dragon,Isabel Allende,4.0
+The Algebraist,Iain M. Banks,4.04
+Alphabet of Thorn,Patricia A. McKillip,4.09
+The Golem's Eye,Jonathan Stroud,4.12
+The Keys to the Kingdom: Grim Tuesday,Garth Nix,4.18
+The Last Light of the Sun,Guy Gavriel Kay,4.24
+The Dark Tower,Stephen King,4.24
+A Hat Full of Sky,Terry Pratchett,4.33
+The System of the World,Neal Stephenson,4.34
+The Language of Power,Rosemary Kirstein,4.38
+Going Postal,Terry Pratchett,4.41
+Airborn,Kenneth Oppel,4.67
+The Baroque Cycle: The Confusion,Neal Stephenson,4.73
+The Plot Against America,Philip Roth,5.0
+The Blue Girl,Charles de Lint,5.0
+The Sea of Trolls,Nancy Farmer,5.0

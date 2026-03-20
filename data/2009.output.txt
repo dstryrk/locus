@@ -1,0 +1,61 @@
+Yellow Blue Tibia,Adam Roberts,0.0
+Dragon in Chains,Daniel Fox,0.0
+Spell Games,T.A. Pratt,0.0
+Drood,Dan Simmons,0.0
+In Great Waters,Kit Whitfield,0.0
+The Hotel Under the Sand,Kage Baker,0.0
+Gullstruck Island,Frances Hardinge,0.0
+Spellbent,Lucy A. Snyder,0.0
+Living with Ghosts,Kari Sperring,0.0
+Heroes of the Valley,Jonathan Stroud,1.0
+Total Oblivion, More or Less,Alan DeNiro,3.08
+Green,Jay Lake,3.25
+Liar,Justine Larbalestier,3.28
+Buyout,Alexander C. Irvine,3.32
+Norse Code,Greg van Eekhout,3.32
+Lightbreaker,Mark Teppo,3.33
+Audrey's Door,Sarah Langan,3.38
+The Adamantine Palace,Stephen Deas,3.4
+The High City,Cecelia Holland,3.44
+Blood of Ambrose,James Enge,3.48
+Steal Across the Sky,Nancy Kress,3.5
+Boneshaker,Cherie Priest,3.53
+Chronic City,Jonathan Lethem,3.55
+The Devil's Alphabet,Daryl Gregory,3.57
+The Manual of Detection,Jedediah Berry,3.57
+Julian Comstock,Robert Charles Wilson,3.59
+Galileo's Dream,Kim Stanley Robinson,3.61
+Ash,Malinda Lo,3.63
+The Red Tree,Caitlín R. Kiernan,3.64
+Palimpsest,Catherynne M. Valente,3.65
+The Revolution Business,Charles Stross,3.66
+Going Bovine,Libba Bray,3.67
+Lamentation,Ken Scholes,3.7
+Last Days,Brian Evenson,3.72
+Madness of Flowers,Jay Lake,3.74
+The Walls of the Universe,Paul Melko,3.77
+This Is Not a Game,Walter Jon Williams,3.77
+Gears of the City,Felix Gilman,3.78
+The Windup Girl,Paolo Bacigalupi,3.78
+Rosemary and Rue,Seanan McGuire,3.78
+Harbinger,Jack Skillingstead,3.79
+The Empress of Mars,Kage Baker,3.82
+Transition,Iain M. Banks,3.87
+Ark,Stephen Baxter,3.88
+Lifelode,Jo Walton,3.88
+Soulless,Gail Carriger,3.9
+Leviathan,Scott Westerfeld,3.92
+Under the Dome,Stephen King,3.93
+Avilion,Robert Holdstock,3.94
+Canticle,Ken Scholes,3.94
+The City & The City,China Miéville,4.0
+Unseen Academicals,Terry Pratchett,4.01
+Finch,Jeff VanderMeer,4.01
+The Sunless Countries,Karl Schroeder,4.06
+Sacred Scars,Kathleen Duey,4.12
+The Price of Spring,Daniel Abraham,4.13
+The Ask and the Answer,Patrick Ness,4.18
+Cloud & Ashes: Three Winter's Tales,Greer Gilman,4.25
+The Painting and the City,Robert Freeman Wexler,4.27
+Catching Fire,Suzanne Collins,4.45
+Gardens of the Sun,Paul McAuley,5.0

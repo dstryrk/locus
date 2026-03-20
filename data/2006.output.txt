@@ -1,0 +1,66 @@
+End of the World Blues,Jon Courtenay Grimwood,0.0
+Horizons,Mary Rosenblum,0.0
+Ilario,Mary Gentle,0.0
+Majestrum,Matthew Hughes,0.0
+The Privilege of the Sword,Ellen Kushner,0.0
+The Patron Saint of Plagues,Barth Anderson,0.0
+Scar Night,Alan Campbell,0.0
+The Lies of Locke Lamora,Scott Lynch,0.0
+Against the Day,Thomas Pynchon,3.0
+Babylon,Richard Calder,3.07
+Idolon,Mark Budz,3.09
+The Burning Girl,Holly Phillips,3.33
+Trial of Flowers,Jay Lake,3.41
+Emperor,Stephen Baxter,3.42
+Mathematicians in Love,Rudy Rucker,3.46
+Keeping It Real,Justina Robson,3.47
+Forest Mage,Robin Hobb,3.47
+The Road,Cormac McCarthy,3.5
+The Glass Books of the Dream Eaters,Gordon Dahlquist,3.5
+The Clan Corporate,Charles Stross,3.51
+Magic Lessons,Justine Larbalestier,3.51
+The Last Witchfinder,James Morrow,3.52
+The Tourmaline,Paul Park,3.52
+The Last Days,Scott Westerfeld,3.54
+Do the Creepy Thing,Graham Joyce,3.55
+Crystal Rain,Tobias S. Buckell,3.58
+Carnival,Elizabeth Bear,3.61
+Nova Swing,M. John Harrison,3.63
+A Shadow in Summer,Daniel Abraham,3.64
+Three Days to Never,Tim Powers,3.66
+The Brief History of the Dead,Kevin Brockmeier,3.67
+Summer of the Apocalypse,James Van Pelt,3.71
+The Stolen Child,Keith Donohue,3.74
+Sun of Suns,Karl Schroeder,3.75
+Specials,Scott Westerfeld,3.75
+The Armies of Memory,John Barnes,3.77
+Rainbows End,Vernor Vinge,3.77
+Eifelheim,Michael Flynn,3.78
+Solstice Wood,Patricia A. McKillip,3.78
+The Demon and the City,Liz Williams,3.78
+Farthing,Jo Walton,3.81
+The Blood Knight,Greg Keyes,3.83
+Blue Noon,Scott Westerfeld,3.86
+Glasshouse,Charles Stross,3.88
+Fugitives of Chaos,John C. Wright,3.89
+Throne of Jade,Naomi Novik,3.9
+Matriarch,Karen Traviss,3.91
+Black Powder War,Naomi Novik,3.91
+Spirits That Walk in Shadow,Nina Kiriki Hoffman,3.94
+The Thousandfold Thought,R. Scott Bakker,3.95
+Sir Thursday,Garth Nix,3.96
+Voices,Ursula K. Le Guin,3.98
+Blindsight,Peter Watts,4.0
+Shriek: An Afterword,Jeff VanderMeer,4.01
+Soldier of Sidon,Gene Wolfe,4.01
+The Jennifer Morgue,Charles Stross,4.02
+The Virtu,Sarah Monette,4.03
+The Green Glass Sea,Ellen Klages,4.04
+His Majesty's Dragon,Naomi Novik,4.07
+Polity Agent,Neal Asher,4.14
+A Darkling Plain,Philip Reeve,4.16
+Wintersmith,Terry Pratchett,4.25
+The Vengeance of Rome,Michael Moorcock,4.29
+Lisey's Story,Stephen King,4.4
+The Pinhoe Egg,Diana Wynne Jones,4.42
+The Blade Itself,Joe Abercrombie,4.54

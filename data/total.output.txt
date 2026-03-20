@@ -1,0 +1,2058 @@
+The Arrows of Time,Greg Egan,0.0
+Mastiff,Tamora Pierce,0.0
+The Land Across,Gene Wolfe,0.0
+The Chosen and the Beautiful,Nghi Vo,0.0
+Lord Byron's Novel: The Evening Land,John Crowley,0.0
+Bloodmarked,Tracy Deonn,0.0
+Dread Nation,Justina Ireland,0.0
+Wolfhound Century,Peter Higgins,0.0
+Siren Queen,Nghi Vo,0.0
+Tigerman,Nick Harkaway,0.0
+The Lies of Locke Lamora,Scott Lynch,0.0
+The Once and Future Witches,Alix E. Harrow,0.0
+Zombie Baseball Beatdown,Paolo Bacigalupi,0.0
+What Moves the Dead,T. Kingfisher,0.0
+The Shadow Year,Jeffrey Ford,0.0
+Arctic Rising,Tobias S. Buckell,0.0
+Sixty Days and Counting,Kim Stanley Robinson,0.0
+The Ruined City,Paula Brandon,0.0
+Europe in Winter,Dave Hutchinson,0.0
+Skin Hunger,Kathleen Duey,0.0
+Seeker,Jack McDevitt,0.0
+Pirate Freedom,Gene Wolfe,0.0
+Monsters of Men,Patrick Ness,0.0
+Scar Night,Alan Campbell,0.0
+The Red: First Light,Linda Nagata,0.0
+Someone Comes to Town, Someone Leaves Town,Cory Doctorow,0.0
+A Master of Djinn,P. Djèlí Clark,0.0
+Dragon in Chains,Daniel Fox,0.0
+King of Scars,Leigh Bardugo,0.0
+Incandescence,Greg Egan,0.0
+A Face Like Glass,Frances Hardinge,0.0
+The Dark Forest,Cixin Liu,0.0
+She Who Became the Sun,Shelley Parker-Chan,0.0
+Just Like Beauty,Lisa Lerner,0.0
+The Islanders,Christopher Priest,0.0
+A Snake Falls to Earth,Darcie Little Badger,0.0
+City at the End of Time,Greg Bear,0.0
+Life,Gwyneth Jones,0.0
+Just Like Home,Sarah Gailey,0.0
+The Sorcerer's House,Gene Wolfe,0.0
+Glass Soup,Jonathan Carroll,0.0
+The Rosewater Insurrection/The Rosewater Redemption,Tade Thompson,0.0
+Shadowbridge,Gregory Frost,0.0
+Severance,Ling Ma,0.0
+Drood,Dan Simmons,0.0
+Love Is the Drug,Alaya Dawn Johnson,0.0
+The Hacienda,Isabel Cañas,0.0
+The Girl Who Fell Beneath Fairyland and Led the Revels There,Catherynne M. Valente,0.0
+What Stalks the Deep,T. Kingfisher,0.0
+Living with Ghosts,Kari Sperring,0.0
+Spell Games,T.A. Pratt,0.0
+Bowl of Heaven,Gregory Benford & Larry Niven,0.0
+Midnight Robber,Nalo Hopkinson,0.0
+Hole in the Sky,Daniel H. Wilson,0.0
+When We Wake,Karen Healey,0.0
+Empire of Wild,Cherie Dimaline ),0.0
+Dervish is Digital,Pat Cadigan,0.0
+Gideon the Ninth,Tamsyn Muir,0.0
+7th Sigma,Steven Gould,0.0
+The Angel and the Sword,Cecelia Holland,0.0
+The Ghost in Love,Jonathan Carroll,0.0
+The Folding Knife,K. J. Parker,0.0
+The Peripheral,William Gibson,0.0
+Red Glove,Holly Black,0.0
+Stravaganza: City of Masks,Mary Hoffman,0.0
+The Gradual,Christopher Priest,0.0
+Skybreaker,Kenneth Oppel,0.0
+Behind Her Eyes,Sarah Pinborough,0.0
+The Cabinet of Wonders,Marie Rutkoski,0.0
+London Falling,Paul Cornell,0.0
+One for Sorrow,Christopher Barzak,0.0
+Enigmatic Pilot: A Tall Tale Too True,Kris Saknussemm,0.0
+Under a Watchful Eye,Adam Nevill,0.0
+Katabasis,R.F. Kuang,0.0
+A Princess of Roumania,Paul Park,0.0
+The Fifth Season,N.K. Jemisin,0.0
+Bullettime,Nick Mamatas,0.0
+Rocks Fall, Everyone Dies,Lindsay Ribar,0.0
+The Waking Dark,Robin Wasserman,0.0
+Dancing With Bears,Michael Swanwick,0.0
+Abarat: Days of Magic, Nights of War,Clive Barker,0.0
+Altered Carbon,Richard Morgan,0.0
+The Incandescent,Emily Tesh,0.0
+The Gilded Ones,Namina Forna,0.0
+Black Sun,Rebecca Roanhorse,0.0
+Cemetery Boys,Aiden Thomas,0.0
+Yellow Blue Tibia,Adam Roberts,0.0
+Elatsoe,Darcie Little Badger,0.0
+The Hotel Under the Sand,Kage Baker,0.0
+The Lord of Opium,Nancy Farmer,0.0
+River of Gods,Ian McDonald,0.0
+The Patron Saint of Plagues,Barth Anderson,0.0
+The Daughter of Doctor Moreau,Silvia Moreno-Garcia,0.0
+Dealing in Dreams,Lilliam Rivera,0.0
+The Limits of Enchantment,Graham Joyce,0.0
+Children of Earth and Sky,Guy Gavriel Kay,0.0
+The Ballad of Perilous Graves,Alex Jennings,0.0
+Gullstruck Island,Frances Hardinge,0.0
+The Summer Prince,Alaya Dawn Johnson,0.0
+An Unkindness of Ghosts,Rivers Solomon,0.0
+The Golden Day,Ursula Dubosarsky,0.0
+Sanctum,Sarah Fine,0.0
+Wintersong,S. Jae-Jones,0.0
+Fever Crumb,Philip Reeve,0.0
+My Heart Is a Chainsaw,Stephen Graham Jones,0.0
+The Prefect,Alastair Reynolds,0.0
+The Clockwork Rocket,Greg Egan,0.0
+Majestrum,Matthew Hughes,0.0
+Shadow of the Giant,Orson Scott Card,0.0
+The Ministry for the Future,Kim Stanley Robinson,0.0
+Hollowgirl,Sean Williams,0.0
+Burning Sky,Sherry Thomas,0.0
+The Sledding Hill,Chris Crutcher,0.0
+Ashes of Candesce,Karl Schroeder,0.0
+Truthwitch,Susan Dennard,0.0
+Alif the Unseen,G. Willow Wilson,0.0
+The Poppy War,R.F. Kuang,0.0
+Intrusion,Ken MacLeod,0.0
+The Staircase in the Woods,Chuck Wendig,0.0
+The Girl in the Road,Monica Byrne,0.0
+Frankenstein in Baghdad,Ahmed Saadawi,0.0
+The Fourth Wall,Walter Jon Williams,0.0
+The Stone Sky,N.K. Jemisin,0.0
+The Cartographers,Peng Shepherd,0.0
+A Wizard Alone,Diane Duane,0.0
+The Yiddish Policemen's Union,Michael Chabon,0.0
+The Knife of Never Letting Go,Patrick Ness,0.0
+Zero History,William Gibson,0.0
+Among Others,Jo Walton,0.0
+Joyland,Stephen King,0.0
+Shadow Ticket,Thomas Pynchon,0.0
+Mélusine,Sarah Monette,0.0
+The World We Make,N.K. Jemisin,0.0
+Birdbrain,Johanna Sinisalo,0.0
+Ninth House,Leigh Bardugo,0.0
+The Winter Boy,Sally Wiener Grotta,0.0
+Lost in Transmission,Wil McCarthy,0.0
+The Fisherman,John Langan,0.0
+Varanger,Cecelia Holland,0.0
+Truth and Fear,Peter Higgins,0.0
+The Zenith Angle,Bruce Sterling,0.0
+And I Darken,Kiersten White,0.0
+The Candy House,Jennifer Egan,0.0
+Leviathan Wakes,James S. A. Corey,0.0
+Ancillary Justice,Ann Leckie,0.0
+Grey,Jon Armstrong,0.0
+The Privilege of the Sword,Ellen Kushner,0.0
+Uprooted,Naomi Novik,0.0
+Lovely War,Julie Berry,0.0
+The Portrait of Mrs. Charbuque,Jeffrey Ford,0.0
+The Troupe,Robert Jackson Bennett,0.0
+Chasm City,Alastair Reynolds,0.0
+The Execution Channel,Ken MacLeod,0.0
+Confessions of the Fox,Jordy Rosenberg,0.0
+The Unworthy,Agustina Bazterrica,0.0
+Yarn,Jon Armstrong,0.0
+The City of Brass,S.A. Chakraborty,0.0
+All Those Vanished Engines,Paul Park,0.0
+Firethorn,Sarah Micklem,0.0
+The Book Eaters,Sunyi Dean,0.0
+Harrow the Ninth,Tamsyn Muir,0.0
+The Well of Stars,Robert Reed,0.0
+The Changeling,Victor LaValle,0.0
+Ilario,Mary Gentle,0.0
+Death's End,Cixin Liu,0.0
+Fifty Degrees Below,Kim Stanley Robinson,0.0
+King Sorrow,Joe Hill,0.0
+In the Mouth of the Whale,Paul McAuley,0.0
+Magic or Madness,Justine Larbalestier,0.0
+The Village Sang to the Sea: A Memoir of Magic,Bruce McAllister,0.0
+Internment,Samira Ahmed,0.0
+Lapvona,Ottessa Moshfegh,0.0
+Old Twentieth,Joe Haldeman,0.0
+End of the World Blues,Jon Courtenay Grimwood,0.0
+The God Who Begat a Jackal,Nega Mezlekia,0.0
+Tumbling After,Paul Witcover,0.0
+A Storm of Swords,George R.R. Martin,0.0
+The Buffalo Hunter Hunter,Stephen Graham Jones,0.0
+In Great Waters,Kit Whitfield,0.0
+Shadowshaper,Daniel José Older,0.0
+The Years of Rice and Salt,Kim Stanley Robinson,0.0
+Crooked Kingdom,Leigh Bardugo,0.0
+Move Under Ground,Nick Mamatas,0.0
+An Evil Guest,Gene Wolfe,0.0
+Horizons,Mary Rosenblum,0.0
+Jade City,Fonda Lee,0.0
+A Song Below Water,Bethany C. Morrow,0.0
+War Dogs,Greg Bear,0.0
+Lovecraft Country,Matt Ruff,0.0
+The Glasswright's Apprentice,Mindy L. Klasky,0.0
+The Replacement,Brenna Yovanoff,0.0
+Blackout,Connie Willis,0.0
+Worldsoul,Liz Williams,0.0
+Canyons,P.D. Cacek,0.0
+The Arcanum,Thomas Wheeler,0.0
+The Best of All Possible Worlds,Karen Lord,0.0
+The Bear and the Nightingale,Katherine Arden,0.0
+Tender Morsels,Margo Lanagan,0.0
+The Dream Hotel,Laila Lalami,0.0
+Railsea,China Miéville,0.0
+The Bone Clocks,David Mitchell,0.0
+Trash Sex Magic,Jennifer Stevenson,0.0
+Crandolin,Anna Tambour,0.0
+The Final Girl Support Group,Grady Hendrix,0.0
+Spellbent,Lucy A. Snyder,0.0
+Death of the Author,Nnedi Okorafor,0.0
+The Book of Splendor,Frances Sherwood,0.0
+The Doubt Factory,Paolo Bacigalupi,0.0
+Pet,Akwaeke Emezi,1.0
+Anno Dracula 1976-1991: Johnny Alucard,Kim Newman,1.0
+Chill,Elizabeth Bear,1.0
+Heroes of the Valley,Jonathan Stroud,1.0
+Ruin and Rising,Leigh Bardugo,1.0
+Leviathan Falls,James S.A. Corey,1.0
+Annihilation/Authority/Acceptance,Jeff VanderMeer,2.0
+Magonia,Maria Dahvana Headley,2.0
+Sea of Tranquility,Emily St. John Mandel,2.17
+Finches of Mars,Brian Aldiss,2.44
+Where,Kit Reed,2.59
+Klara and the Sun,Kazuo Ishiguro,2.6
+The Overstory,Richard Powers,2.67
+The Book of Form and Emptiness,Ruth Ozeki,2.67
+The City We Became,N.K. Jemisin,2.8
+Mistification,Kaaron Warren,2.82
+The Loving Dead,Amelia Beamer,2.84
+Godplayers,Damien Broderick,2.85
+All the Lives He Led,Frederik Pohl,2.88
+Distance Haze,Jamil Nasir,2.9
+Genesis,Poul Anderson,2.93
+September Girls,Bennett Madison,2.97
+Work Done for Hire,Joe Haldeman,2.97
+Weighing Shadows,Lisa Goldstein,2.97
+Mormama,Kit Reed,2.98
+Brain Thief,Alexander Jablokov,2.98
+The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making,Catherynne M. Valente,3.0
+The Memory of Fire,George Foy,3.0
+Shades of Grey,Jasper Fforde,3.0
+Olympic Games,Leslie What,3.0
+Dr. Franklin's Island,Ann Halam,3.0
+The Alchemists of Kush,Minister Faust,3.0
+Trail of Lightning,Rebecca Roanhorse,3.0
+The Cabin at the End of the World,Paul Tremblay,3.0
+Through Violet Eyes,Stephen Woodworth,3.0
+The Violent Century,Lavie Tidhar,3.0
+Heart-Shaped Box,Joe Hill,3.0
+Against the Day,Thomas Pynchon,3.0
+The Wind Singer,William Nicholson,3.0
+Across the Universe,Beth Revis,3.0
+Harm,Brian W. Aldiss,3.01
+The Engine's Child,Holly Phillips,3.02
+The Age of Ice,J.M. Sidorova,3.02
+Gingerbread,Helen Oyeyemi,3.05
+One King, One Soldier,Alexander C. Irvine,3.06
+Babylon,Richard Calder,3.07
+Interlibrary Loan,Gene Wolfe,3.07
+Total Oblivion, More or Less,Alan DeNiro,3.08
+Idolon,Mark Budz,3.09
+Dead Souls,Han Song,3.09
+The Library at Hellebore,Cassandra Khaw,3.1
+Archive of Unknown Universes,Ruben Reyes Jr.,3.1
+Sister Noon,Karen Joy Fowler,3.1
+The Pickup Artist,Terry Bisson,3.1
+Heart of Iron,Ekaterina Sedia,3.11
+Evening's Empire,David Herter,3.11
+Catherine House,Elisabeth Thomas,3.11
+The Pallbearers Club,Paul Tremblay,3.12
+The Repeat Room,Jesse Ball,3.12
+Double Vision,Tricia Sullivan,3.13
+Barbary Station,R.E. Stearns,3.14
+Dead Lines,Greg Bear,3.14
+The Need,Helen Phillips,3.15
+Till Human Voices Wake Us,Mark Budz,3.15
+The Grip of It,Jac Jemc,3.15
+The Arrest,Jonathan Lethem,3.15
+Alien Morning,Rick Wilber,3.16
+Meeks,Julia Holmes,3.16
+Universal Harvester,John Darnielle,3.17
+The Cusanus Game,Wolfgang Jeschke,3.17
+Bad Glass,Richard E. Gropp,3.18
+This Weightless World,Adam Soto,3.19
+Everfair,Nisi Shawl,3.19
+Unraveling,Karen Lord,3.19
+The Doloriad,Missouri Williams,3.19
+Noise,Darin Bradley,3.2
+Occupy Me,Tricia Sullivan,3.2
+The Death of Jane Lawrence,Caitlin Starling,3.2
+A Fierce and Subtle Poison,Samantha Mabry,3.2
+The Regional Office is Under Attack!,Manuel Gonzales,3.21
+Womb City,Tlotlo Tsamaase,3.21
+Mainspring,Jay Lake,3.21
+Red Sword,Bora Chung,3.22
+The All-Consuming World,Cassandra Khaw,3.22
+The Dark Net,Benjamin Percy,3.22
+Seed,Rob Ziegler,3.22
+A Peculiar Peril,Jeff VanderMeer,3.22
+Clowns at Midnight,Terry Dowling,3.22
+Wolves,Simon Ings,3.23
+The Red Scholar’s Wake,Aliette de Bodard,3.23
+Blood Oranges,Kathleen Tierney,3.23
+Soulsaver,James Stevens-Arce,3.23
+Breakfast with the One You Love,Eliot Fintushel,3.23
+Vitals,Greg Bear,3.24
+The Weave,Nancy Jane Moore,3.24
+Outlaw School,Rebecca Ore,3.24
+The Cassandra Complex,Brian Stableford,3.24
+Zone One,Colson Whitehead,3.24
+Home Fires,Gene Wolfe,3.25
+The Buried Giant,Kazuo Ishiguro,3.25
+Peaces,Helen Oyeyemi,3.25
+Green,Jay Lake,3.25
+Barren Cove,Ariel S. Winter,3.25
+Hummingbird Salamander,Jeff VanderMeer,3.25
+Verdigris Deep,Frances Hardinge,3.25
+Vanishing World,Sayaka Murata,3.25
+A Room Away From the Wolves,Nova Ren Suma,3.26
+The Fallen Blade,Jon Courtenay Grimwood,3.26
+The Coming,Joe Haldeman,3.26
+Unwrapped Sky,Rjurik Davidson,3.27
+Million Mile Road Trip,Rudy Rucker,3.27
+Red Rabbit Ghost,Jen Julian,3.27
+Alive in Necropolis,Doug Dorst,3.27
+The Last Page,Anthony Huso,3.27
+Blob,Maggie Su,3.28
+Liar,Justine Larbalestier,3.28
+Charlotte Markham and the House of Darkling,Michael Boccacino,3.28
+Honeyeater,Kathleen Jennings,3.28
+softspoken,Lucius Shepard,3.29
+Riddance,Shelley Jackson,3.29
+The Rosetta Codex,Richard Paul Russo,3.29
+City of the Beasts,Isabel Allende,3.29
+The Sky Is Yours,Chandler Klang Smith,3.29
+Castle of the Cursed,Romina Garber,3.29
+Damsel,Elana K. Arnold,3.29
+Mind's Eye,Paul McAuley,3.3
+Hokuloa Road,Elizabeth Hand,3.3
+White Devils,Paul McAuley,3.3
+Chosen Spirits,Samit Basu,3.3
+The Night Ocean,Paul La Farge,3.3
+Star Daughter,Shveta Thakrar,3.31
+Goliath,Tochi Onyebuchi,3.31
+Kinning,Nisi Shawl,3.31
+Flint and Mirror,John Crowley,3.31
+Remember You Will Die,Eden Robins,3.31
+Waste Tide,Chen Qiufan,3.32
+Vellum,Hal Duncan,3.32
+The Silent Invasion,James Bradley,3.32
+Transcension,Damien Broderick,3.32
+Buyout,Alexander C. Irvine,3.32
+The Second Shooter,Nick Mamatas,3.32
+Horror Movie,Paul Tremblay,3.32
+The Harpy,Megan Hunter,3.32
+Appleseed,John Clute,3.32
+In the Night Wood,Dale Bailey,3.32
+Norse Code,Greg van Eekhout,3.32
+Bathing the Lion,Jonathan Carroll,3.33
+The Invisible Hotel,Yeji Y. Ham,3.33
+Don't Sleep with the Dead,Nghi Vo,3.33
+A Shadow All of Light,Fred Chappell,3.33
+The Scroll of Years,Chris Willrich,3.33
+The Deep,Alma Katsu,3.33
+Gods of Jade and Shadow,Silvia Moreno-Garcia,3.33
+Cloud Atlas,David Mitchell,3.33
+The Uncertain Places,Lisa Goldstein,3.33
+The Burning Girl,Holly Phillips,3.33
+How to Make a Horror Movie and Survive,Craig DiLouie,3.33
+Lightbreaker,Mark Teppo,3.33
+A Feast for Crows,George R.R. Martin,3.33
+Condomnauts,Yoss,3.33
+Anthropocene Rag,Alex Irvine,3.34
+Basilisk,N. M. Browne,3.34
+Ubo,Steve Rasnic Tem,3.34
+Persona,Genevieve Valentine,3.34
+The Unmothers,Leslie J. Anderson,3.34
+The Rift,Nina Allan,3.34
+Three Eight One,Aliya Whiteley,3.35
+The Race,Nina Allan,3.35
+Murmur,Will Eaves,3.35
+Ivory Apples,Lisa Goldstein,3.35
+Perihelion Summer,Greg Egan,3.35
+Dark Factory,Kathe Koja,3.35
+How to Ditch Your Fairy,Justine Larbalestier,3.35
+Ill Will,Dan Chaon,3.35
+Red Moon,Benjamin Percy,3.36
+The Dollmaker,Nina Allan,3.36
+The Darkside War,Zachary Brown,3.36
+Dead Astronauts,Jeff VanderMeer,3.36
+Directive 51,John Barnes,3.36
+The Secret of Life,Paul McAuley,3.36
+Rakesfall,Vajra Chandrasekera,3.37
+The Massacre of Mankind,Stephen Baxter,3.37
+Red Moon,Kim Stanley Robinson,3.37
+The Evidence,Christopher Priest,3.37
+A Dark Matter,Peter Straub,3.37
+The Angel of Losses,Stephanie Feldman,3.37
+Lost Everything,Brian Francis Slattery,3.37
+Jane, Unlimited,Kristin Cashore,3.37
+Pay the Piper: A Rock 'n' Roll Fairy Tale,Jane Yolen & Adam Stemple,3.37
+Living Next Door to the God of Love,Justina Robson,3.38
+Spread Me,Sarah Gailey,3.38
+The Narrows,Alexander C. Irvine,3.38
+The Knights of the Cornerstone,James P. Blaylock,3.38
+Trouble the Saints,Alaya Dawn Johnson,3.38
+Bold as Love,Gwyneth Jones,3.38
+The Tiger's Wife,Téa Obreht,3.38
+Audrey's Door,Sarah Langan,3.38
+The House of Shattered Wings,Aliette de Bodard,3.39
+The Secret History of Moscow,Ekaterina Sedia,3.39
+Burning Paradise,Robert Charles Wilson,3.39
+The Rapture of the Nerds,Cory Doctorow & Charles Stross,3.39
+A Borrowed Man,Gene Wolfe,3.39
+The Prodigal Troll,Charles Coleman Finlay,3.39
+The Gods and Their Machines,Oisín McGann,3.39
+For Us, The Living,Robert A. Heinlein,3.39
+Blackwood,Gwenda Bond,3.4
+Vagabonds,Hao Jingfang,3.4
+Forgotten Sisters,Cynthia Pelayo,3.4
+In the Night Room,Peter Straub,3.4
+The Adamantine Palace,Stephen Deas,3.4
+Earthbound,Joe Haldeman,3.41
+Last Song Before Night,Ilana C. Myer,3.41
+Road of Bones,Christopher Golden,3.41
+Will Do Magic for Small Change,Andrea Hairston,3.41
+The Sunken Land Begins to Rise Again,M. John Harrison,3.41
+Trial of Flowers,Jay Lake,3.41
+Corsair,James L. Cambias,3.41
+Hull Zero Three,Greg Bear,3.41
+Metallic Realms,Lincoln Michel,3.42
+Emperor,Stephen Baxter,3.42
+Any Day Now,Terry Bisson,3.42
+The Toll,Cherie Priest,3.42
+The Laws of the Skies,Gregoire Courtois,3.42
+Melmoth,Sarah Perry,3.42
+Cloud Cuckoo Land,Anthony Doerr,3.42
+Take Back the Sky,Greg Bear,3.42
+The Migration,Helen Marshall,3.42
+The Alchemist's Door,Lisa Goldstein,3.43
+The Book of Hidden Things,Francesco Dimitri,3.43
+Ceres Storm,David Herter,3.43
+The Woken Gods,Gwenda Bond,3.43
+Mockingjay,Suzanne Collins,3.43
+House of Leaves,Mark Z. Danielewski,3.43
+The Spice Gate,Prashanth Srivatsa,3.43
+Wide Open,Deborah Coates,3.43
+The Highest Frontier,Joan Slonczewski,3.43
+In War Times,Kathleen Ann Goonan,3.43
+Aerie,Maria Dahvana Headley,3.43
+Black Leopard,Red Wolf,3.44
+The High City,Cecelia Holland,3.44
+Tropic of Kansas,Christopher Brown,3.44
+Sweep of Stars,Maurice Broaddus,3.44
+The Riddled Night,Valery Leith,3.44
+Aetherbound,E.K. Johnston,3.44
+Azanian Bridges,Nick Wood,3.44
+vN,Madeline Ashby,3.44
+An American Story,Christopher Priest,3.45
+How to Live Safely in a Science Fictional Universe,Charles Yu,3.45
+Singer of Souls,Adam Stemple,3.45
+An Arrow to the Moon,Emily X.R. Pan,3.45
+Space Opera,Catherynne M. Valente,3.45
+The Summer Country,James A. Hetley,3.46
+Chimpanzee,Darin Bradley,3.46
+Elysium,Jennifer Marie Brissett,3.46
+Chalk,Paul Cornell,3.46
+City Under the Stars,Gardner Dozois & Michael Swanwick,3.46
+Sleep Like Death,Kalynn Bayron,3.46
+Terraforming Earth,Jack Williamson,3.46
+No Gods,No Monsters,3.46
+The Ninth Circle,Alex Bell,3.46
+Mathematicians in Love,Rudy Rucker,3.46
+Wilder Girls,Rory Power,3.46
+The House of Storms,Ian R. MacLeod,3.47
+A Book of Tongues,Gemma Files,3.47
+Forest Mage,Robin Hobb,3.47
+Eastern Standard Tribe,Cory Doctorow,3.47
+A Paradigm of Earth,Candas Jane Dorsey,3.47
+Queen's Hunt,Beth Bernobich,3.47
+The Boy Who Drew Monsters,Keith Donohue,3.47
+Mexican Gothic,Silvia Moreno-Garcia,3.47
+They Bloom at Night,Trang Thanh Tran,3.47
+Red Hood,Elana K. Arnold,3.47
+Magic's Child,Justine Larbalestier,3.47
+The Midnight Shift,Cheon Seon-Ran,3.47
+The Blade Between,Sam J. Miller,3.47
+January Dancer,Michael Flynn,3.47
+The Underhistory,Kaaron Warren,3.47
+Keeping It Real,Justina Robson,3.47
+The Year of the Ladybird,Graham Joyce,3.48
+Sisters,Daisy Johnson,3.48
+The Princess of Dhagabad,Anna Kashina,3.48
+We Love You, Bunny,Mona Awad,3.48
+The Book of Love,Kelly Link,3.48
+Beowulf,Maria Dahvana Headley,3.48
+The Red Church,Scott Nicholson,3.48
+The Underground Railroad,Colson Whitehead,3.48
+Blood of Ambrose,James Enge,3.48
+Sea Now,Eva Meijer,3.48
+Costumes for Time Travelers,A.R. Capetta,3.48
+Golden State,Ben H. Winters,3.48
+Debris,Jo Anderton,3.49
+The Silverberg Business,Robert Freeman Wexler,3.49
+Harmattan Season,Tochi Onyebuchi,3.49
+Zendegi,Greg Egan,3.49
+The Adjacent,Christopher Priest,3.49
+Mars Crossing,Geoffrey A. Landis,3.49
+The Mirror Empire,Kameron Hurley,3.49
+Echo,Thomas Olde Heuvelt,3.49
+The Dream of Perpetual Motion,Dexter Palmer,3.49
+City of Ashes,Cassandra Clare,3.5
+Beneath the Rising,Premee Mohamed,3.5
+Company Town,Madeline Ashby,3.5
+Mother Go,James Patrick Kelly,3.5
+The Company,K. J. Parker,3.5
+The Devils,Joe Abercrombie,3.5
+The Golem and the Jinni,Helene Wecker,3.5
+Zoo City,Lauren Beukes,3.5
+Legendborn,Tracy Deonn,3.5
+Victories Greater Than Death,Charlie Jane Anders,3.5
+Hunted,James Alan Gardner,3.5
+Landfall,James Bradley,3.5
+The Road,Cormac McCarthy,3.5
+The Games,Ted Kosmatka,3.5
+Steal Across the Sky,Nancy Kress,3.5
+The Glass Books of the Dream Eaters,Gordon Dahlquist,3.5
+Whole Wide World,Paul McAuley,3.5
+The City in the Middle of the Night,Charlie Jane Anders,3.5
+The Thousand Autumns of Jacob de Zoet,David Mitchell,3.5
+Who Fears Death,Nnedi Okorafor,3.5
+The Hole,Hiroko Oyamada,3.51
+Central Station,Lavie Tidhar,3.51
+Night Swimming,Aaron Starmer,3.51
+The Memory Garden,Mary Rickert,3.51
+Far from the Light of Heaven,Tade Thompson,3.51
+Red Snow,Ian R. MacLeod,3.51
+Shades of Milk and Honey,Mary Robinette Kowal,3.51
+Wrath Goddess Sing,Maya Deane,3.51
+Cuckoo,Gretchen Felker-Martin,3.51
+The Clan Corporate,Charles Stross,3.51
+The Godless,Ben Peek,3.51
+Moonstorm,Yoon Ha Lee,3.51
+Magic Lessons,Justine Larbalestier,3.51
+Purgatory Mount,Adam Roberts,3.51
+The Tourmaline,Paul Park,3.52
+Austral,Paul McAuley,3.52
+Mrs Death Misses Death,Salena Godden,3.52
+The Last Witchfinder,James Morrow,3.52
+Moderation,Elaine Castillo,3.52
+The Sorcerer of the Wildeeps,Kai Ashante Wilson,3.52
+Lust,Geoff Ryman,3.52
+Bones of the Earth,Michael Swanwick,3.52
+2312,Kim Stanley Robinson,3.52
+The House of Discarded Dreams,Ekaterina Sedia,3.52
+Slow Apocalypse,John Varley,3.52
+Mister Boots,Carol Emshwiller,3.52
+Guardian,Joe Haldeman,3.52
+The Last President,John Barnes,3.52
+The Eleventh Gate,Nancy Kress,3.52
+A Tempest of Tea,Hafsah Faizal,3.52
+Starbound,Joe Haldeman,3.53
+Sour Cherry,Natalia Theodoridou,3.53
+The Real-Town Murders,Adam Roberts,3.53
+All That We See or Seem,Ken Liu,3.53
+Soft Apocalypse,Will McIntosh,3.53
+The Book of Records,Madeleine Thien,3.53
+Boneshaker,Cherie Priest,3.53
+Awake in the Floating City,Susanna Kwan,3.53
+The Last Days of New Paris,China Miéville,3.53
+Good Neighbors,Sarah Langan,3.53
+Star Eater,Kerstin Hall,3.53
+The Shining Girls: A Novel,Lauren Beukes,3.54
+The Paradox Hotel,Rob Hart,3.54
+Salt,Adam Roberts,3.54
+Imaginary Friend,Stephen Chbosky,3.54
+From the Wreck,Jane Rawson,3.54
+Transmentation | Transience,Darkly Lem,3.54
+Book of Night,Holly Black,3.54
+Temper,Nicky Drayden,3.54
+The Last Days,Scott Westerfeld,3.54
+Lotus Blue,Cat Sparks,3.54
+Peeps,Scott Westerfeld,3.54
+Galapagos Regained,James Morrow,3.54
+Shaman's Crossing,Robin Hobb,3.55
+Banner of Souls,Liz Williams,3.55
+The Silver Wind,Nina Allan,3.55
+Roses and Rot,Kat Howard,3.55
+Beyond the Burn Line,Paul McAuley,3.55
+The Family Trade,Charles Stross,3.55
+Goblin Secrets,William Alexander,3.55
+The King's Peace,Jo Walton,3.55
+The Shattering,Karen Healey,3.55
+Chronic City,Jonathan Lethem,3.55
+Feed,M. T. Anderson,3.55
+Knight of the Demon Queen,Barbara Hambly,3.55
+The Genesis of Misery,Neon Yang,3.49The Silver Wind,Nina Allan,3.55
+Do the Creepy Thing,Graham Joyce,3.55
+Annie LeBlanc Is Not Dead Yet,Molly Morris,3.55
+The Bone Orchard,Sara A. Mueller,3.56
+Destroy All Monsters,Sam J. Miller,3.56
+Spirit,Gwyneth Jones,3.56
+The Star-Touched Queen,Roshani Chokshi,3.56
+Marsbound,Joe Haldeman,3.56
+Frankissstein,Jeanette Winterson,3.56
+Summerland,Hannu Rajaniemi,3.56
+Axis,Robert Charles Wilson,3.56
+The Native Star,M. K. Hobson,3.56
+The Oblivion Bride,Caitlin Starling,3.56
+The Memory of Sky,Robert Reed,3.56
+Forty Signs of Rain,Kim Stanley Robinson,3.56
+The Thinking Woman's Guide to Real Magic,Emily Croy Barker,3.56
+Every Bone a Prayer,Ashley Blooms,3.56
+Dengue Boy,Michel Nieva,3.57
+The Wretch of the Sun,Michael Cisco,3.57
+A Scattering of Jades,Alexander C. Irvine,3.57
+The Manual of Detection,Jedediah Berry,3.57
+If Tomorrow Comes,Nancy Kress,3.57
+Brighter than Scale, Swifter than Flame,Neon Yang,3.57
+Vermilion,Molly Tanzer,3.57
+Team Human,Justine Larbalestier & Sarah Rees Brennan,3.57
+Summerlong,Peter S. Beagle,3.57
+Medusa's Web,Tim Powers,3.57
+Fellside,M.R. Carey,3.57
+The Devil's Alphabet,Daryl Gregory,3.57
+Appleseed,Matt Bell,3.57
+Eater,Gregory Benford,3.57
+Murder by Memory,Olivia Waite,3.57
+Blackfish City,Sam J. Miller,3.57
+Psychopomp & Circumstance,Eden Royce,3.57
+Newton's Wake,Ken MacLeod,3.57
+Mordew,Alex Pheby,3.57
+Artemis Awakening,Jane Lindskold,3.57
+Summerland,Michael Chabon,3.57
+Black Wings Beating,Alex London,3.57
+Mr. Fox,Helen Oyeyemi,3.57
+Rise of the Red Hand,Olivia Chadha,3.57
+Equimedian,Alvaro Zinos-Amaro,3.57
+Rocket Science,Jay Lake,3.57
+Tomorrow’s Kin,Nancy Kress,3.58
+51,Patrick O’Leary,3.58
+Tomorrow's Kin,Nancy Kress,3.58
+The Moon and the Other,John Kessel,3.58
+Dark and Deepest Red,Anna-Marie McLemore,3.58
+Air,Geoff Ryman,3.58
+No Gods for Drowning,Hailey Piper,3.58
+The Place of Shells,Mai Ishizawa,3.58
+Bone Song,John Meaney,3.58
+Fire Dance,Ilana C. Myer,3.58
+Manhunt,Gretchen Felker-Martin,3.58
+Dead Set,Richard Kadrey,3.58
+Autonomous,Annalee Newitz,3.58
+Patricia Wants to Cuddle,Samantha Allen,3.58
+Getaway,Zoje Stage,3.58
+Crystal Rain,Tobias S. Buckell,3.58
+All the Birds in the Sky,Charlie Jane Anders,3.59
+Pride and Prometheus,John Kessel,3.59
+The Everlasting Rose,Dhonielle Clayton,3.59
+The Aylesford Skull,James P. Blaylock,3.59
+Crucible,Nancy Kress,3.59
+Stamping Butterflies,Jon Courtenay Grimwood,3.59
+Baby Teeth,Zoje Stage,3.59
+Julian Comstock,Robert Charles Wilson,3.59
+Disappearance at Devil's Rock,Paul Tremblay,3.59
+Extras,Scott Westerfeld,3.59
+Faller,Will McIntosh,3.59
+A Questionable Shape,Bennett Sims,3.59
+Bridge 108,Anne Charnock,3.59
+The Blood of Angels,Johanna Sinisalo,3.59
+Grave Reservations,Cherie Priest,3.59
+Salvation’s Fire,Justina Robson,3.59
+Expect Me Tomorrow,Christopher Priest,3.6
+Conqueror,Stephen Baxter,3.6
+A Winter Haunting,Dan Simmons,3.6
+The Hidden Family,Charles Stross,3.6
+Hide Me Among the Graves,Tim Powers,3.6
+Glorious Angels,Justina Robson,3.6
+The White Tyger,Paul Park,3.6
+Wild Beauty,Anna-Marie McLemore,3.6
+Saturn's Children,Charles Stross,3.6
+Under the Whispering Door,TJ Klune,3.6
+Some Kind of Fairy Tale,Graham Joyce,3.6
+Saturnalia,Stephanie Feldman,3.6
+Spaceland,Rudy Rucker,3.6
+The Mostly True Story of Jack,Kelly Barnhill,3.6
+Artificial Truth,J.M. Lee,3.6
+The Mirage,Matt Ruff,3.6
+The Year of Our War,Steph Swainston,3.6
+Orphans of Chaos,John C. Wright,3.6
+The Impossible Bird,Patrick O'Leary,3.6
+Daybreak Zero,John Barnes,3.6
+Carnival,Elizabeth Bear,3.61
+The Hidden World,Paul Park,3.61
+Masks and Shadows,Stephanie Burgis,3.61
+This Is Not the Jess Show,Anna Carey,3.61
+Curious Toys,Elizabeth Hand,3.61
+Creatures of Want and Ruin,Molly Tanzer,3.61
+Hammajang Luck,Makana Yamamoto,3.61
+Eartheater,Dolores Reyes,3.61
+The Rose Field,Philip Pullman,3.61
+The Needfire,MK Hardy,3.61
+Light,M. John Harrison,3.61
+Galileo's Dream,Kim Stanley Robinson,3.61
+The Child Eater,Rachel Pollack,3.61
+Little Eyes,Samanta Schweblin,3.61
+A Curse as Dark as Gold,Elizabeth C. Bunce,3.61
+The Echo Wife,Sarah Gailey,3.61
+Cosmonaut Keep,Ken MacLeod,3.61
+The Enchantress of Florence,Salman Rushdie,3.61
+iD: The Second Machine Dynasty,Madeline Ashby,3.61
+The Corporation Wars: Dissidence,Ken MacLeod,3.61
+Mem,Bethany C. Morrow,3.61
+Kraken,China Miéville,3.62
+Architects of Memory,Karen Osborne,3.62
+We Lived on the Horizon,Erika Swyler,3.62
+Incidents Around the House,Josh Malerman,3.62
+Black Brane,Michael Cisco,3.62
+We Computers,Hamid Ismailov,3.62
+Chime,Franny Billingsley,3.62
+Clade,James Bradley,3.62
+Song of Spores,Bogi Takács,3.62
+Beauty Queens,Libba Bray,3.62
+Colony Fleet,Susan R. Matthews,3.62
+The Fourth Circle,Zoran Zivkovic,3.62
+Fire Becomes Her,Rosiee Thor,3.62
+Creatures of Will and Temper,Molly Tanzer,3.62
+Arabella of Mars,David D. Levine,3.62
+Wendy,Darling,3.62
+Fires of the Faithful,Naomi Kritzer,3.62
+Bad Monkeys,Matt Ruff,3.62
+The Adoration of Jenna Fox,Mary E. Pearson,3.62
+The Wax Child,Olga Ravn,3.63
+Ash,Malinda Lo,3.63
+Of Blood and Honey,Stina Leicht,3.63
+Ysabel,Guy Gavriel Kay,3.63
+Cloudbound,Fran Wilde,3.63
+The Alchemy of Stone,Ekaterina Sedia,3.63
+This Shared Dream,Kathleen Ann Goonan,3.63
+The Grand Dark,Richard Kadrey,3.63
+Probability Moon,Nancy Kress,3.63
+Eterna and Omega,Leanna Renee Hieber,3.63
+Magic for Liars,Sarah Gailey,3.63
+The Gate of Fire,Thomas Harlan,3.63
+Lagoon,Nnedi Okorafor,3.63
+Nova Swing,M. John Harrison,3.63
+The Man from Primrose Lane,James Renner,3.63
+Infomocracy,Malka Older,3.63
+But Not Too Bold,Hache Pueyo,3.63
+Absolution,Jeff VanderMeer,3.63
+The Glass Harmonica,Louise Marley,3.63
+Burning Midnight,Will McIntosh,3.63
+Survivor Song,Paul Tremblay,3.63
+Flood,Stephen Baxter,3.63
+For a Muse of Fire,Heidi Heilig,3.63
+The Cautious Traveller’s Guide to the Wastelands,Sarah Brooks,3.63
+Luminous,Silvia Park,3.64
+Annex,Rich Larson,3.64
+Abomination,Gary Whitta,3.64
+The Fervor,Alma Katsu,3.64
+Last Dragon,J.T. McDermott,3.64
+The H-Bomb Girl,Stephen Baxter,3.64
+Machinehood,S.B. Divya,3.64
+Memory of Water,Emmi Itäranta,3.64
+Girl on a Wire,Gwenda Bond,3.64
+A Shadow in Summer,Daniel Abraham,3.64
+Food of the Gods,Cassandra Khaw,3.64
+Breath of Earth,Beth Cato,3.64
+The Family Plot,Cherie Priest,3.64
+Space Oddity,Catherynne M. Valente,3.64
+The Twisted Ones,T. Kingfisher,3.64
+The Red Tree,Caitlín R. Kiernan,3.64
+The Stars Are Legion,Kameron Hurley,3.64
+Light Music,Kathleen Ann Goonan,3.64
+The Courier's New Bicycle,Kim Westwood,3.64
+The Last Storm,Tim Lebbon,3.64
+Mortal Love,Elizabeth Hand,3.64
+Hysteria,Megan Miranda,3.64
+The Thing Itself,Adam Roberts,3.64
+Crescent City Rhapsody,Kathleen Ann Goonan,3.64
+Singularity's Ring,Paul Melko,3.64
+Ahab’s Return,Jeffrey Ford,3.64
+Angel Mage,Garth Nix,3.64
+The Upper World,Femi Fadugba,3.65
+Palimpsest,Catherynne M. Valente,3.65
+Escapement,Jay Lake,3.65
+Engine City,Ken MacLeod,3.65
+The Stone in the Skull,Elizabeth Bear,3.65
+The Brilliant Death,Amy Rose Capetta,3.65
+A Half-Built Garden,Ruthanna Emrys,3.65
+Throne of the Crescent Moon,Saladin Ahmed,3.65
+Dragon's Treasure,Elizabeth A. Lynn,3.65
+The Clockwork Dagger,Beth Cato,3.65
+Nekropolis,Maureen F. McHugh,3.65
+Opposite of Always,Justin A. Reynolds,3.65
+The Omega Expedition,Brian Stableford,3.65
+The Sky on Fire,Jenn Lyons,3.65
+The Wilding,Ian McDonald,3.65
+The Labyrinth,Catherynne M. Valente,3.66
+War of the Maps,Paul McAuley,3.66
+The Book of Strange New Things,Michel Faber,3.66
+Dreamcatcher,Stephen King,3.66
+The Book of Transformations,Mark Charan Newton,3.66
+Camouflage,Joe Haldeman,3.66
+Three Days to Never,Tim Powers,3.66
+The Agony House,Cherie Priest & Tara O’Connor,3.66
+House of Hunger,Alexis Henderson,3.66
+Plain Bad Heroines,Emily M. Danforth,3.66
+The Escapement,Lavie Tidhar,3.66
+Unholy Land,Lavie Tidhar,3.66
+The Fall of the Kings,Ellen Kushner & Delia Sherman,3.66
+A Stranger in Olondria,Sofia Samatar,3.66
+The Revolution Business,Charles Stross,3.66
+Zeitgeist,Bruce Sterling,3.66
+Dwelling,Emily Hunt Kivel,3.66
+Thunderer,Felix Gilman,3.66
+Bête,Adam Roberts,3.66
+Termination Shock,Neal Stephenson,3.67
+Going Bovine,Libba Bray,3.67
+Sleepless,Charlie Huston,3.67
+The Bookman,Lavie Tidhar,3.67
+The Brief History of the Dead,Kevin Brockmeier,3.67
+Armed in Her Fashion,Kate Heartfield,3.67
+Ultima,Stephen Baxter,3.67
+Last Exit,Max Gladstone,3.67
+I’m Afraid You’ve Got Dragons,Peter S. Beagle,3.67
+We Are Satellites,Sarah Pinsker,3.67
+The Book of Lamps and Banners,Elizabeth Hand,3.67
+False Hearts,Laura Lam,3.67
+An Excess Male,Maggie Shen King,3.67
+The Luminous Dead,Caitlin Starling,3.68
+The Infinity Courts,Akemi Dawn Bowman,3.68
+Lessons in Magic and Disaster,Charlie Jane Anders,3.68
+Weaver,Stephen Baxter,3.68
+The Separation,Christopher Priest,3.68
+The Girl from Everywhere,Heidi Heilig,3.68
+Doll Bones,Holly Black,3.68
+Light Perpetual,Francis Spufford,3.68
+The Kindred,Alechia Dow,3.68
+The Devil Takes You Home,Gabino Iglesias,3.68
+The Immortal King Rao,Vauhini Vara,3.68
+Son of the Storm,Suyi Davies Okungbowa,3.68
+The Nightward,R.S.A. Garcia,3.68
+The Liminal War,Ayize Jama-Everett,3.68
+Planesrunner,Ian McDonald,3.68
+Between Two Thorns,Emma Newman,3.68
+A Letter to the Luminous Deep,Sylvie Cathrall,3.68
+Boneland,Alan Garner,3.68
+The Walls Around Us,Nova Ren Suma,3.68
+Summer in the City of Roses,Michelle Ruiz Keil,3.69
+The Chronoliths,Robert Charles Wilson,3.69
+The Jazz,Melissa Scott,3.69
+By Force Alone,Lavie Tidhar,3.69
+The Children of the Sky,Vernor Vinge,3.69
+The Last Guardian of Everness,John C. Wright,3.69
+Jack Glass,Adam Roberts,3.69
+Over the Woodward Wall,A. Deborah Baker,3.69
+Icon,Genevieve Valentine,3.69
+Private Rites,Julia Armfield,3.69
+God's War,Kameron Hurley,3.69
+Make Me a Monster,Kalynn Bayron,3.69
+Weave a Circle Round,Kari Maaren,3.69
+Flora Segunda,Ysabeau S. Wilce,3.69
+A Broken Darkness,Premee Mohamed,3.69
+Sea Hearts,Margo Lanagan,3.69
+Shipstar,Gregory Benford & Larry Niven,3.69
+Chercher La Femme,L. Timmel Duchamp,3.69
+The Midnight Timetable,Bora Chung,3.69
+Age of Ash,Daniel Abraham,3.69
+Blueprints of the Afterlife,Ryan Boudinot,3.69
+We Sold Our Souls,Grady Hendrix,3.7
+Ink Exchange,Melissa Marr,3.7
+The Embroidered Book,Kate Heartfield,3.7
+Wicked Lovely,Melissa Marr,3.7
+Motherthing,Ainslie Hogarth,3.7
+Ghost Species,James Bradley,3.7
+Blackthorne,Stina Leicht,3.7
+The Drowning Girl,Caitlín R. Kiernan,3.7
+Ruled Britannia,Harry Turtledove,3.7
+The Singular Life of Aria Patel,Samira Ahmed,3.7
+Wake Up and Dream,Ian R. MacLeod,3.7
+Dark Orbit,Carolyn Ives Gilman,3.7
+The Fountains of Youth,Brian Stableford,3.7
+It Was Her House First,Cherie Priest,3.7
+The Good Neighbours,Nina Allan,3.7
+Plumage,Nancy Springer,3.7
+Lamentation,Ken Scholes,3.7
+The Red Wolf Conspiracy,Robert V. S. Redick,3.7
+Forest of a Thousand Lanterns,Julie C. Dao,3.7
+Kings of the North,Cecelia Holland,3.7
+Dark Light,Ken MacLeod,3.7
+Phoenix Extravagant,Yoon Ha Lee,3.7
+White Apples,Jonathan Carroll,3.71
+Learning the World,Ken MacLeod,3.71
+Lake of Darkness,Adam Roberts,3.71
+The King Must Die,Kemi Ashing-Giwa,3.71
+The Pursuit of William Abbey,Claire North,3.71
+The Tapestry of Time,Kate Heartfield,3.71
+Origin: Manifold 3,Stephen Baxter,3.71
+The Trees,Ali Shaw,3.71
+The Bees,Laline Paull,3.71
+Europe in Autumn,Dave Hutchinson,3.71
+Summer of the Apocalypse,James Van Pelt,3.71
+An Accident of Stars,Foz Meadows,3.71
+The Memoirs of a Master Forger,William Heaney,3.71
+HEX,Thomas Olde Heuvelt,3.71
+Labyrinth Lost,Zoraida Cordóva,3.71
+The Art of Starving,Sam J. Miller,3.72
+Gamechanger,L.X. Beckett,3.72
+Mirage,Somaiya Daud,3.72
+Snake Agent,Liz Williams,3.72
+An Unkindness of Magicians,Kat Howard,3.72
+Radiant Days,Elizabeth Hand,3.72
+Spook Country,William Gibson,3.72
+The Parliament,Aimee Pokwatka,3.72
+The Hood,Lavie Tidhar,3.72
+Last Days,Brian Evenson,3.72
+Sorcerer to the Crown,Zen Cho,3.72
+Stealing Worlds,Karl Schroeder,3.72
+Nightwise,R.S. Belcher,3.72
+The Melancholy of Untold History,Minsoo Kang,3.72
+Bannerless,Carrie Vaughn,3.72
+Certain Dark Things,Silvia Moreno-Garcia,3.72
+Afterworlds,Scott Westerfeld,3.72
+Want,Cindy Pon,3.72
+Fever Dream,Samanta Schweblin,3.72
+Passage,Connie Willis,3.72
+The One Kingdom,Sean Russell,3.72
+White as Snow,Tanith Lee,3.72
+Coldheart Canyon,Clive Barker,3.72
+Infinite Detail,Tim Maughan,3.72
+The Gilded Wolves,Roshani Chokshi,3.72
+Candle,John Barnes,3.72
+Karen Memory,Elizabeth Bear,3.72
+Exordia,Seth Dickinson,3.72
+Afterparty,Daryl Gregory,3.73
+Automatic Noodle,Annalee Newitz,3.73
+Wheelers,Ian Stewart & Jack Cohen,3.73
+Model Home,Rivers Solomon,3.73
+River Mumma,Zalika Reid-Benta,3.73
+Winter Tide,Ruthanna Emrys,3.73
+The Accidental Time Machine,Joe Haldeman,3.73
+Apollo's Outcasts,Allen Steele,3.73
+9Tail Fox,Jon Courtenay Grimwood,3.73
+The Watchmaker of Filigree Street,Natasha Pulley,3.73
+California Bones,Greg van Eekhout,3.73
+The Bird King,G. Willow Wilson,3.73
+A Children’s Bible,Lydia Millet,3.73
+Otherbound,Corinne Duyvis,3.73
+Planetfall,Emma Newman,3.73
+From the Dust Returned,Ray Bradbury,3.73
+The Unspoken Name,A.K. Larkwood,3.73
+A Blade So Black,L.L. McKinney,3.73
+Iron Council,China Miéville,3.73
+Radiance,Catherynne M. Valente,3.73
+Probability Space,Nancy Kress,3.73
+A Philosophy of Thieves,Fran Wilde,3.73
+Blackheart Man,Nalo Hopkinson,3.73
+Fall; or,Dodge in Hell,3.73
+Kingfisher,Patricia McKillip,3.74
+The Collapsium,Wil McCarthy,3.74
+When Devils Sing,Xan Kaur,3.74
+Never Let Me Go,Kazuo Ishiguro,3.74
+Creatures of Charm and Hunger,Molly Tanzer,3.74
+The Boneshaker,Kate Milford,3.74
+Rosewater,Tade Thompson,3.74
+The Old Drift,Namwali Serpell,3.74
+Anno Dracula 1999: Daikaiju,Kim Newman,3.74
+Stonefish,Scott R. Jones,3.74
+Signal to Noise,Silvia Moreno-Garcia,3.74
+The Dragons of Babel,Michael Swanwick,3.74
+The Stolen Child,Keith Donohue,3.74
+Maledicte,Lane Robins,3.74
+Empire of Unreason,J. Gregory Keyes,3.74
+Yesterday Is History,Kosoko Jackson,3.74
+Prodigies,Angelica Gorodischer,3.74
+Bear Daughter,Judith Berman,3.74
+Amberlough,Lara Elena Donnelly,3.74
+Archivist Wasp,Nicole Kornher-Stace,3.74
+Devices and Desires,K. J. Parker,3.74
+The Scrivener's Tale,Fiona McIntosh,3.74
+TWOC,Graham Joyce,3.74
+Horizon,Fran Wilde,3.74
+Madness of Flowers,Jay Lake,3.74
+The Dreamthief's Daughter,Michael Moorcock,3.74
+Black Brillion,Matthew Hughes,3.75
+Zeroes, Scott Westerfeld,Margo Lanagan & Deborah Biancotti,3.75
+The Isle of Battle,Sean Russell,3.75
+The Witches' Kitchen,Cecelia Holland,3.75
+Sourdough,Robin Sloan,3.75
+The Living,Matt de la Peña,3.75
+The Berlin Project,Gregory Benford,3.75
+The Memory Theater,Karin Tidbeck,3.75
+The Devourers,Indra Das,3.75
+A Sick Gray Laugh,Nicole Cushing,3.75
+The Desert of Souls,Howard Andrew Jones,3.75
+The Book of Accidents,Chuck Wendig,3.75
+Turing & Burroughs: A Beatnik SF Novel,Rudy Rucker,3.75
+Territory,Emma Bull,3.75
+The Grand Ellipse,Paula Volsky,3.75
+Song of Time,Ian R. MacLeod,3.75
+Luna: New Moon,Ian McDonald,3.75
+Specials,Scott Westerfeld,3.75
+War Girls,Tochi Onyebuchi,3.75
+The Iron Grail,Robert Holdstock,3.75
+On Fragile Waves,E. Lily Yu,4.12Mage of Fools,Eugen Bacon,3.75
+Lockstep,Karl Schroeder,3.75
+Lincoln in the Bardo,George Saunders,3.75
+Burn,Patrick Ness,3.75
+Sun of Suns,Karl Schroeder,3.75
+All Our Wrong Todays,Elan Mastai,3.75
+The Future of Another Timeline,Annalee Newitz,3.75
+This Thing Between Us,Gus Moreno,3.76
+The Golden City,J. Kathleen Cheney,3.76
+Kid vs. Squid,Greg van Eekhout,3.76
+Growing Wings,Laurel Winter,3.76
+Shattered Minds,Laura Lam,3.76
+Permanence,Karl Schroeder,3.76
+A Darkling Sea,James L. Cambias,3.76
+Walkaway,Cory Doctorow,3.76
+Glamour in Glass,Mary Robinette Kowal,3.76
+Hammered,Elizabeth Bear,3.76
+Counting Heads,David Marusek,3.76
+The Prey of Gods,Nicky Drayden,3.76
+The Bruising of Qilwa,Naseem Jamnia,3.76
+Whiskey and Water,Elizabeth Bear,3.76
+The Wrong Stars,Tim Pratt,3.76
+Song of the Crimson Flower,Julie C. Dao,3.76
+Implied Spaces,Walter Jon Williams,3.76
+Perfect Circle,Sean Stewart,3.76
+The Midnight Bargain,C.L. Polk,3.76
+The Half-Made World,Felix Gilman,3.76
+The Knife and the Serpent,Tim Pratt,3.76
+Rainbows End,Vernor Vinge,3.77
+Love and Other Thought Experiments,Sophie Ward,3.6The 22 Murders of Madison May,Max Barry,3.77
+Blood of the Old Kings,Sung-Il Kim,3.77
+Wylding Hall,Elizabeth Hand,3.77
+The Armies of Memory,John Barnes,3.77
+The Book of Flora,Meg Elison,3.77
+This Is Not a Game,Walter Jon Williams,3.77
+Into the Sun,C.F. Ramuz,3.77
+The Book of All Skies,Greg Egan,3.77
+The Walls of the Universe,Paul Melko,3.77
+Vortex,Robert Charles Wilson,3.77
+Mortal Fire,Elizabeth Knox,3.77
+The Knight,Gene Wolfe,3.77
+Shaman,Kim Stanley Robinson,3.77
+Be My Enemy,Ian McDonald,3.77
+Beneath London,James P. Blaylock,3.77
+Rule 34,Charles Stross,3.77
+The Familiar,Leigh Bardugo,3.77
+The Last Policeman,Ben H. Winters,3.77
+The City in Glass,Nghi Vo,3.77
+Probability Sun,Nancy Kress,3.77
+Cinder House,Freya Marske,3.78
+Or What You Will,Jo Walton,3.78
+You Sexy Thing,Cat Rambo,3.78
+Amatka,Karin Tidbeck,3.78
+Harrison Squared,Daryl Gregory,3.78
+Eifelheim,Michael Flynn,3.78
+Fly by Night,Frances Hardinge,3.78
+Burn Down,Rise Up,3.78
+Ghosts in the Snow,Tamara Siler Jones,3.78
+The Girl of Fire and Thorns,Rae Carson,3.78
+Escaping Exodus,Nicky Drayden,3.78
+We Ride Upon Sticks,Quan Barry,3.78
+Moon Lake,Joe R. Lansdale,3.78
+The Demon and the City,Liz Williams,3.78
+Gifts,Ursula K. Le Guin,3.78
+Red Waters Rising,Laura Anne Gilman,3.78
+Aurora,Kim Stanley Robinson,3.78
+The Sword-Edged Blonde,Alex Bledsoe,3.78
+Solstice Wood,Patricia A. McKillip,3.78
+The Serpent Dreamer,Cecelia Holland,3.78
+Gears of the City,Felix Gilman,3.78
+The Windup Girl,Paolo Bacigalupi,3.78
+Zoe's Tale,John Scalzi,3.78
+Wonders of the Invisible World,Christopher Barzak,3.78
+Rosemary and Rue,Seanan McGuire,3.78
+Shrine of Stars,Paul J. McAuley,3.78
+Three Dark Crowns,Kendare Blake,3.79
+The Wolf Age,James Enge,3.79
+Sunward,William Alexander,3.79
+Harbinger,Jack Skillingstead,3.79
+The Reader,Traci Chee,3.79
+The Golden Age,Michal Ajvaz,3.79
+Ancestral Night,Elizabeth Bear,3.79
+The Ocean at the End of the Lane,Neil Gaiman,3.79
+Ninefox Gambit,Yoon Ha Lee,3.79
+Starstrike,Yoon Ha Lee,3.79
+The Swan Riders,Erin Bow,3.79
+Road to Ruin,Hana Lee,3.79
+American Elsewhere,Robert Jackson Bennett,3.79
+Huntress,Malinda Lo,3.79
+Fledgling,Octavia E. Butler,3.79
+Valiant,Holly Black,3.79
+Empress of Forever,Max Gladstone,3.79
+The Hollow Places,T. Kingfisher,3.8
+Pandemonium,Daryl Gregory,3.8
+The Girls at the Kingfisher Club,Genevieve Valentine,3.8
+Under the Eye of the Big Bird,Hiromi Kawakami,3.8
+Rule of Capture,Christopher Brown,3.8
+My Real Children,Jo Walton,3.8
+The Grace of Kings,Ken Liu,3.8
+Devil and the Bluebird,Jennifer Mason-Black,3.8
+The Isle in the Silver Sea,Tasha Suri,3.8
+Halting State,Charles Stross,3.8
+Sundial,Catriona Ward,3.8
+The Village at the Edge of Noon,Darya Bobyleva,3.8
+Bone Gap,Laura Ruby,3.8
+The Angel of the Crows,Katherine Addison,3.8
+The Last Hour Between Worlds,Melissa Caruso,3.8
+Shelter,Dave Hutchinson,3.8
+The Bewitching,Silvia Moreno-Garcia,3.81
+The Siege of Burning Grass,Premee Mohamed,3.81
+Red Star Hustle,Sam J. Miller,3.81
+The Outside,Ada Hoffmann,3.81
+The Invited,Jennifer McMahon,3.81
+The Visitor,Sheri S. Tepper,3.81
+Revival,Stephen King,3.81
+Farthing,Jo Walton,3.81
+Proxima,Stephen Baxter,3.81
+The Mermaid,the Witch,3.81
+Agency,William Gibson,3.81
+Empty Space,M. John Harrison,3.81
+Slade House,David Mitchell,3.81
+Summer Sons,Lee Mandelo,3.81
+The Book of Flora,Meg Elison,3.81
+The Island of Eternal Love,Daina Chaviano,3.81
+Apprehension,Mary Robinette Kowal,3.81
+Rolling Thunder,John Varley,3.81
+The Book of Gold,Ruth Frances Long,3.81
+Mechanique: A Tale of the Circus Tresaulti,Genevieve Valentine,3.81
+Shadow Captain,Alastair Reynolds,3.81
+The Space Between,Brenna Yovanoff,3.81
+Frogkisser!,Garth Nix,3.81
+The Deep Woods,Tim Pratt,3.82
+Spindle's End,Robin McKinley,3.82
+Toward Eternity,Anton Hur,3.82
+Miss Peregrine's Home for Peculiar Children,Ransom Riggs,3.82
+Our Wives Under the Sea,Julia Armfield,3.82
+School of Shards,Marina & Sergey Dyachenko,3.82
+The Year of the Witching,Alexis Henderson,3.82
+Mammoth,John Varley,3.82
+Lord Tophet,Gregory Frost,3.82
+Archangel,Marguerite Reed,3.82
+Tender Is the Flesh,Agustina Bazterrica,3.82
+Underground Airlines,Ben Winters,3.82
+Ink,Hal Duncan,3.82
+The Empress of Mars,Kage Baker,3.82
+The Strange Case of the Alchemist's Daughter,Theodora Goss,3.82
+The Wooden Sea,Jonathan Carroll,3.82
+The Dragon's Path,Daniel Abraham,3.82
+Glass Dragons,Sean McMullen,3.82
+A Chorus Rises,Bethany C. Morrow,3.82
+Lady of Mazes,Karl Schroeder,3.82
+Midnighters Vol. 1: The Secret Hour,Scott Westerfeld,3.82
+A Handbook of American Prayer,Lucius Shepard,3.82
+The Medusa Chronicles,Stephen Baxter & Alastair Reynolds,3.82
+The Strange Case of the Alchemist’s Daughter,Theodora Goss,3.82
+The Moonday Letters,Emmi Itäranta,3.82
+The Belles,Dhonielle Clayton,3.82
+Revenger,Alastair Reynolds,3.82
+Empire of Sand,Tasha Suri,3.82
+The Spare Man,Mary Robinette Kowal,3.82
+Sorrowland,Rivers Solomon,3.83
+The Executioners Three,Susan Dennard,3.83
+The Unbroken,C.L. Clark,3.83
+The Coldest Girl in Coldtown,Holly Black,3.83
+Datura,Leena Krohn,3.83
+Un Lun Dun,China Miéville,3.83
+Poseidon's Wake,Alastair Reynolds,3.83
+The Charnel Prince,Greg Keyes,3.83
+The Praxis,Walter Jon Williams,3.83
+The Gone Away Place,Christopher Barzak,3.83
+Build Your House Around My Body,Violet Kupersmith,3.83
+The Blood Knight,Greg Keyes,3.83
+We Are All Ghosts in the Forest,Lorraine Wilson,3.83
+The Quantum Thief,Hannu Rajaniemi,3.83
+The Things She’s Seen,Ambelin & Ezekiel Kwaymullina,3.83
+The Girl Who Drank the Moon,Kelly Barnhill,3.83
+Bluecrowne,Kate Milford,3.83
+Galveston,Sean Stewart,3.84
+Pacific Fire,Greg Van Eekhout,3.84
+Quillifer,Walter Jon Williams,3.84
+In Universes,Emet North,3.84
+Going Dark,Linda Nagata,3.84
+By the Pricking of Her Thumb,Adam Roberts,3.84
+Provenance,Ann Leckie,3.84
+White Smoke,Tiffany D. Jackson,3.84
+Frek and the Elixir,Rudy Rucker,3.84
+Where the Axe Is Buried,Ray Nayler,3.84
+Noor,Nnedi Okorafor,3.84
+Chalice,Robin McKinley,3.84
+Exit West,Mohsin Hamid,3.84
+Voyage of the Shadowmoon,Sean McMullen,3.84
+The Core of the Sun,Johanna Sinisalo,3.84
+Gnomon,Nick Harkaway,3.84
+The Lie Tree,Frances Hardinge,3.84
+Last Year,Robert Charles Wilson,3.84
+The Honeys,Ryan La Sala,3.85
+A Man Lies Dreaming,Lavie Tidhar,3.85
+Major Arcana,John Pistelli,3.85
+The Eye of Night,Pauline J. Alama,3.85
+Bacchanal,Veronica G. Henry,3.85
+Countdown City,Ben H. Winters,3.85
+The Corporation Wars: Emergence,Ken MacLeod,3.85
+The Water Knife,Paolo Bacigalupi,3.85
+The River of Shadows,Robert V. S. Redick,3.85
+Kiln People,David Brin,3.85
+Neptune's Brood,Charles Stross,3.85
+Maelstrom,Peter Watts,3.85
+Witchmark,C.L. Polk,3.85
+The This,Adam Roberts,3.85
+The Boy at the End of the World,Greg van Eekhout,3.85
+Acts of God,Kanan Gill,3.85
+House of Bone and Rain,Gabino Iglesias,3.85
+A Matter of Blood,Sarah Pinborough,3.85
+The Lady of the Sorrows,Cecilia Dart-Thornton,3.85
+The Lesson,Cadwell Turnbull,3.58Providence,Max Barry,3.86
+The Seer,Sonia Orin Lyris,3.86
+The Hammer,K. J. Parker,3.86
+Murder of Angels,Caitlín R. Kiernan,3.86
+Marrow,Robert Reed,3.86
+The Steep and Thorny Way,Cat Winters,3.86
+Lavinia,Ursula K. Le Guin,3.86
+Providence,Max Barry,3.86
+The True Queen,Zen Cho,3.86
+The Book Censor’s Library,Bothayna Al-Essa,3.86
+The Tiger’s Daughter,K Arsenault Rivera,3.86
+The Darkest Part of the Forest,Holly Black,3.86
+Empress of the Sun,Ian McDonald,3.86
+Blue Noon,Scott Westerfeld,3.86
+Fortress of Dragons,C.J. Cherryh,3.86
+City of Saints and Madmen,Jeff VanderMeer,3.86
+The Dervish House,Ian McDonald,3.86
+The Tiger's Daughter,K Arsenault Rivera,3.86
+Ymir,Rich Larson,3.86
+The Mere Wife,Maria Dahvana Headley,3.86
+Chasing the Phoenix,Michael Swanwick,3.87
+The Crimson Road,A.G. Slatter,3.87
+Transition,Iain M. Banks,3.87
+Crown of Silence,Storm Constantine,3.87
+Transcendent,Stephen Baxter,3.87
+The Beyond,Jeffrey Ford,3.87
+The Dead Cat Tail Assassins,P. Djèlí Clark,3.87
+The Angels of L19,Jonathan Walker,3.87
+Ka: Dar Oakley in the Ruin of Ymr,John Crowley,3.87
+Neom,Lavie Tidhar,3.87
+Hidden Cities,Daniel Fox,3.87
+Ballad & Dagger,Daniel José Older,3.87
+The Freedom Maze,Delia Sherman,3.87
+Jonathan Strange & Mr Norrell,Susanna Clarke,3.87
+Beyond the Hallowed Sky,Ken MacLeod,3.87
+Lady Eve’s Last Con,Rebecca Fraimow,3.87
+Firebreak,Nicole Kornher-Stace,3.87
+Raising Stony Mayhall,Daryl Gregory,3.87
+Cyber Mage,Saad Z. Hossain,3.87
+Redshirts,John Scalzi,3.87
+Vigil,Angela Slatter,3.87
+Thirteen Doorways,Wolves Behind Them All,3.87
+Empire Ascendant,Kameron Hurley,3.87
+The Possession of Alba Díaz,Isabel Cañas,3.87
+The Left-Handed Booksellers of London,Garth Nix,3.87
+The Ship Beyond Time,Heidi Heilig,3.87
+Zeuglodon,James P. Blaylock,3.88
+Black Water Sister,Zen Cho,3.88
+Lifelode,Jo Walton,3.88
+The Sky Road,Ken MacLeod,3.88
+Making History,K.J. Parker,3.88
+The House of Styx,Derek Künsken,3.88
+Long Live Evil,Sarah Rees Brennan,3.88
+From Dust,a Flame,3.88
+Finder,Suzanne Palmer,3.88
+The Merciful Crow,Margaret Owen,3.88
+The Eyre Affair,Jasper Fforde,3.88
+The Actual Star,Monica Byrne,3.88
+Exultant,Stephen Baxter,3.88
+Only a Monster,Vanessa Len,3.88
+The Flowing Queen,Kai Meyer,3.88
+Glasshouse,Charles Stross,3.88
+Ark,Stephen Baxter,3.88
+Irontown Blues,John Varley,3.88
+Impersonations,Walter Jon Williams,3.88
+The Black Chalice,Marie Jakober,3.88
+A Song of Legends Lost,M.H. Ayinde,3.89
+Undertow,Elizabeth Bear,3.89
+Blue Remembered Earth,Alastair Reynolds,3.89
+American Gods,Neil Gaiman,3.89
+Blood Scion,Deborah Falaye,3.89
+Bone Silence,Alastair Reynolds,3.89
+Fugitives of Chaos,John C. Wright,3.89
+Sky on Fire,E.K. Johnston,3.89
+Prison of Sleep,Tim Pratt,3.89
+The Hallowed Hunt,Lois McMaster Bujold,3.89
+The Monster Baru Cormorant,Seth Dickinson,3.89
+The Sons of Heaven,Kage Baker,3.89
+The Atrocity Archive,Charles Stross,3.89
+Sharps,K. J. Parker,3.89
+Small Town Horror,Ronald Malfi,3.89
+The House of Binding Thorns,Aliette de Bodard,3.89
+The Dreaming Stars,Tim Pratt,3.89
+The Wizard,Gene Wolfe,3.89
+The Hundred Thousand Kingdoms,N. K. Jemisin,3.89
+Thresholds,Nina Kiriki Hoffman,3.89
+Null States,Malka Older,3.89
+Tide of Stone,Kaaron Warren,3.89
+Enchanted Glass,Diana Wynne Jones,3.89
+Son,Lois Lowry,3.89
+Mongrels,Stephen Graham Jones,3.89
+Doors of Sleep,Tim Pratt,3.9
+Chindi,Jack McDevitt,3.9
+Navola,Paolo Bacigalupi,3.9
+Embassytown,China Miéville,3.9
+Midnighters Vol. 2: Touching Darkness,Scott Westerfeld,3.9
+The Light Brigade,Kameron Hurley,3.9
+Evil for Evil,K. J. Parker,3.9
+Stormsong,C.L. Polk,3.9
+Waterblack,Alex Pheby,3.9
+The Escapement,K. J. Parker,3.9
+Throne of Jade,Naomi Novik,3.9
+The West Passage,Jared Pechaček,3.9
+Lexicon,Max Barry,3.9
+Shadow Puppets,Orson Scott Card,3.9
+Rituals,Roz Kaveney,3.9
+Semiosis,Sue Burke,3.9
+The Coyote Kings of the Space-Age Bachelor Pad,Minister Faust,3.9
+Soulless,Gail Carriger,3.9
+The Sky So Big and Black,John Barnes,3.9
+Metaplanetary,Tony Daniel,3.9
+When We Were Real,Daryl Gregory,3.9
+Embers of War,Gareth L. Powell,3.91
+Black Man,Richard Morgan,3.91
+Ha'Penny,Jo Walton,3.91
+Black Ships,Jo Graham,3.91
+A Fistful of Sky,Nina Kiriki Hoffman,3.91
+Devolution,Max Brooks,3.91
+The Immaculate Void,Brian Hodge,3.91
+The Strange Adventures of Rangergirl,Tim Pratt,3.91
+The Drowned Cities,Paolo Bacigalupi,3.91
+Manifold: Space,Stephen Baxter,3.91
+Blood Red Road,Moira Young,3.91
+Spoonbenders,Daryl Gregory,3.91
+The Annihilation Score,Charles Stross,3.91
+Unconquerable Sun,Kate Elliott,3.91
+Weapons of Choice,John Birmingham,3.91
+Bluebird,Ciel Pierlot,3.91
+To Crush the Moon,Wil McCarthy,3.91
+The Habitation of the Blessed,Catherynne M. Valente,3.91
+Briarpatch,Tim Pratt,3.91
+Tess of the Road,Rachel Hartman,3.91
+Half-Witch,John Schoffstall,3.91
+Black Powder War,Naomi Novik,3.91
+Matriarch,Karen Traviss,3.91
+The Devil and Deep Space,Susan R. Matthews,3.91
+A Betrayal in Winter,Daniel Abraham,3.92
+Beautiful Blood,Lucius Shepard,3.92
+The Merciless Ones,Namina Forna,3.92
+Failed State,Christopher Brown,3.92
+Notes from a Regicide,Isaac Fellman,3.92
+The Dream Quake,Elizabeth Knox,3.92
+City of Pearl,Karen Traviss,3.92
+The Facts of Life,Graham Joyce,3.92
+The Evil Wizard Smallbone,Delia Sherman,3.92
+The Raven Tower,Ann Leckie,3.92
+The Fireman,Joe Hill,3.92
+Redwood and Wildfire,Andrea Hairston,3.92
+Shelter,Susan Palwick,3.92
+Leviathan,Scott Westerfeld,3.92
+The Witch King,H.E. Edgmon,3.92
+The New Moon's Arms,Nalo Hopkinson,3.93
+The Stone Boatmen,Sarah Tolmie,3.93
+The Scapegracers,H.A. Clarke,3.93
+Otherworldly,F.T. Lukens,3.93
+Malarkoi,Alex Pheby,3.93
+Somewhere Beyond the Sea,TJ Klune,3.93
+Bewilderment,Richard Powers,3.93
+Schild's Ladder,Greg Egan,3.93
+The Magician King,Lev Grossman,3.93
+Shadowmarch,Tad Williams,3.93
+Waypoint Kangaroo,Curtis Chen,3.93
+The Wild Dead,Carrie Vaughn,3.93
+Machine,Elizabeth Bear,3.93
+The Brotherhood of the Wheel,R.S. Belcher,3.93
+Blood for the Undying Throne,Sung-il Kim,3.93
+Under the Dome,Stephen King,3.93
+The Man Who Saw Seconds,Alexander Boldizar,3.93
+Horns,Joe Hill,3.93
+Borne,Jeff VanderMeer,3.93
+Seveneves,Neal Stephenson,3.93
+Deathless,Catherynne M. Valente,3.93
+Luna: Moon Rising,Ian McDonald,3.93
+Aspects,John M. Ford,3.93
+Grail,Elizabeth Bear,3.93
+Metal from Heaven,August Clarke,3.93
+The Phoenix Empress,K Arsenault Rivera,3.93
+Angelmaker,Nick Harkaway,3.93
+The Philosopher Kings,Jo Walton,3.93
+The Book of Phoenix,Nnedi Okorafor,3.93
+The Love We Share Without Knowing,Christopher Barzak,3.93
+Canticle,Ken Scholes,3.94
+Spirits That Walk in Shadow,Nina Kiriki Hoffman,3.94
+Necessity,Jo Walton,3.94
+Coyote,Allen Steele,3.94
+Seraphina,Rachel Hartman,3.94
+The Diviners,Libba Bray,3.94
+The Inheritance of Orquídea Divina,Zoraida Córdova,3.94
+Half a Crown,Jo Walton,3.94
+Impostors,Scott Westerfeld,3.94
+Ventus,Karl Schroeder,3.94
+More Than This,Patrick Ness,3.94
+Unity,Elly Bangs,3.94
+Titans of Chaos,John C. Wright,3.94
+The Imposition of Unnecessary Obstacles,Malka Older,3.94
+Avilion,Robert Holdstock,3.94
+Luna: Wolf Moon,Ian McDonald,3.94
+Heirs of Grace,Tim Pratt,3.94
+Spondulix,Paul Di Filippo,3.94
+Spells to Forget Us,Aislinn Brophy,3.95
+The Cold Commands,Richard K. Morgan,3.95
+Among Ghosts,Rachel Hartman,3.95
+The Space Between Worlds,Micaiah Johnson,3.95
+The Fresco,Sheri S. Tepper,3.95
+Dodger,Terry Pratchett,3.95
+The Life of the World to Come,Kage Baker,3.95
+The Thousandfold Thought,R. Scott Bakker,3.95
+The Accidental War,Walter Jon Williams,3.95
+The November Girl,Lydia Kang,3.95
+The Calculating Stars,Mary Robinette Kowal,3.95
+Dark Lightning,John Varley,3.95
+Olympos,Dan Simmons,3.95
+Century Rain,Alastair Reynolds,3.95
+The Bridge,J.S. Breukelaar,3.95
+Cuckoo Song,Frances Hardinge,3.96
+All Our Hidden Gifts,Caroline O’Donoghue,3.96
+The Guns Above,Robyn Bennis,3.96
+Attack Surface,Cory Doctorow,3.96
+Soulstar,C.L. Polk,3.96
+Homeland,Cory Doctorow,3.96
+Needy Little Things,Channelle Desamours,3.96
+The Unraveling,Benjamin Rosenbaum,3.96
+The Killing Moon,N. K. Jemisin,3.96
+The Bards of Bone Plain,Patricia A. McKillip,3.96
+The Weight of the Stars,K. Ancrum,3.96
+A Skinful of Shadows,Frances Hardinge,3.96
+Eon: Dragoneye Reborn,Alison Goodman,3.96
+Sir Thursday,Garth Nix,3.96
+All the Murmuring Bones,A.G. Slatter,3.96
+Fate of Worlds,Larry Niven & Edward M. Lerner,3.96
+Lakelore,Anna-Marie McLemore,3.96
+Blanca & Roja,Anna-Marie McLemore,3.97
+Half a King,Joe Abercrombie,3.97
+Fitzpatrick's War,Theodore Judson,3.97
+Shadow of the Hegemon,Orson Scott Card,3.97
+The Thousand Earths,Stephen Baxter,3.97
+Winter's Heart,Robert Jordan,3.97
+The House of Sundering Flames,Aliette de Bodard,3.97
+Singer Distance,Ethan Chatagnier,3.97
+Solitaire,Kelley Eskridge,3.97
+Queen of Candesce,Karl Schroeder,3.97
+Book of a Thousand Days,Shannon Hale,3.97
+The World Before,Karen Traviss,3.98
+The Warm Hands of Ghosts,Katherine Arden,3.98
+A Marvellous Light,Freya Marske,3.98
+The Long Look,Richard Parks,3.98
+Railhead,Phillip Reeve,3.98
+Iron Sunrise,Charles Stross,3.98
+Someone You Can Build a Nest In,John Wiswell,3.98
+Cold Steel,Kate Elliott,3.98
+Lent,Jo Walton,3.98
+Blood Like Magic,Liselle Sambury,3.98
+The Graveyard Book,Neil Gaiman,3.98
+The Quantum Magician,Derek Künsken,3.98
+The Mountain in the Sea,Ray Nayler,3.98
+Revelator,Daryl Gregory,3.98
+Wanderers,Chuck Wendig,3.98
+Later,Stephen King,3.98
+A Dark and Starless Forest,Sarah Hollowell,3.98
+Voices,Ursula K. Le Guin,3.98
+Poisoned Blade,Kate Elliott,3.98
+A Song for a New Day,Sarah Pinsker,3.98
+Pirate Sun,Karl Schroeder,3.98
+Across the Great Barrier,Patricia C. Wrede,3.98
+Lion's Blood,Steven Barnes,3.98
+Sistersong,Lucy Holland,3.99
+The Miocene Arrow,Sean McMullen,3.99
+Changeless,Gail Carriger,3.99
+Od Magic,Patricia A. McKillip,3.99
+A Bed of Earth,Tanith Lee,3.99
+Juice,Tim Winton,3.99
+The Bright Sword,Lev Grossman,3.99
+The Thief Lord,Cornelia Funk,3.99
+The Kingdom of Gods,N. K. Jemisin,3.99
+Esperance,Adam Oyebanji,3.99
+The Telling,Ursula K. Le Guin,3.99
+Greenglass House,Kate Milford,3.99
+The Dagger in Vichy,Alastair Reynolds,3.99
+Eversion,Alastair Reynolds,4.0
+The Southern Book Club’s Guide to Slaying Vampires,Grady Hendrix,4.0
+The Shipbuilder of Bellfairie,M. Rickert,4.0
+When the Moon Was Ours,Anna-Marie McLemore,4.0
+The Adventures of Mary Darling,Pat Murphy,4.0
+The Grasshopper's Child,Gwyneth Jones,4.0
+Ombria in Shadow,Patricia A. McKillip,4.0
+European Travel for the Monstrous Gentlewoman,Theodora Goss,4.0
+Daughter of Smoke and Bone,Laini Taylor,4.0
+Hidden Pictures,Jason Rekulak,4.0
+King Kelson's Bride,Katherine Kurtz,4.0
+The Only Good Indians,Stephen Graham Jones,4.0
+Rest in Peaches,Alex Brown,4
+The House of the Scorpion,Nancy Farmer,4.0
+The Memory Police,Yoko Ogawa,4.0
+The Raven Boys,Maggie Stiefvater,4.0
+When Women Were Dragons,Kelly Barnhill,4.0
+The Deep and Shining Dark,Juliet Kemp,4.0
+Sister Mine,Nalo Hopkinson,4.0
+A Monster Calls,Patrick Ness,4.0
+The Astonishing Color of After,Emily X.R. Pan,4.0
+The City & The City,China Miéville,4.0
+Kingdom of the Golden Dragon,Isabel Allende,4.0
+Wake,Elizabeth Knox,4.0
+After the End of the World,Jonathan L. Howard,4.0
+Fleet of Knives,Gareth L. Powell,4.0
+Professor Moriarty: The Hound of the D'Urbervilles,Kim Newman,4.0
+Brasyl,Ian McDonald,4.0
+Eyes of the Calculor,Sean McMullen,4.0
+Buried Heart,Kate Elliott,4.0
+Stravaganza: City of Flowers,Mary Hoffman,4.0
+I Am Not Jessica Chen,Ann Liang,4.0
+Blindsight,Peter Watts,4.0
+Bitterblue,Kristin Cashore,4.0
+New York 2140,Kim Stanley Robinson,4.0
+The Ministry of Time,Kaliane Bradley,4
+Effendi: The Second Arabesk,Jon Courtenay Grimwood,4.0
+City of Blades,Robert Jackson Bennett,4.0
+Every Day,David Levithan,4.0
+The Last Good Man,Linda Nagata,4.0
+Utopia Avenue,David Mitchell,4.0
+How High We Go in the Dark,Sequoia Nagamatsu,4.0
+The Beautiful Ones,Silvia Moreno-Garcia,4.0
+The Dark Tower: Song of Susannah,Stephen King,4.0
+The Winged Histories,Sofia Samatar,4.0
+Lock In,John Scalzi,4.0
+NOS4A2,Joe Hill,4.0
+Soldier of Sidon,Gene Wolfe,4.01
+Unseen Academicals,Terry Pratchett,4.01
+The Book of Koli,M.R. Carey,4.01
+The Kaiju Preservation Society,John Scalzi,4.01
+The Outsider,Stephen King,4.01
+Winter’s Orbit,Everina Maxwell,4.01
+Beyond the Light Horizon,Ken Macleod,4.01
+Shriek: An Afterword,Jeff VanderMeer,4.01
+Finch,Jeff VanderMeer,4.01
+Empire Games,Charles Stross,4.01
+Mapping the Bones,Jane Yolen,4.01
+Into Everywhere,Paul McAuley,4.01
+The End of All Things,John Scalzi,4.01
+This Wicked Fate,Kalynn Bayron,4.01
+The Left-Handed Fate,Kate Milford,4.01
+Theory of Bastards,Audrey Schulman,4.01
+The Bone Shard Daughter,Andrea Stewart,4.02
+Europe at Midnight,Dave Hutchinson,4.02
+How To Succeed in Witchcraft,Aislinn Brophy,4.02
+The Path of Thorns,A.G. Slatter,4.02
+A Kiss of Shadows,Laurell K. Hamilton,4.02
+Middlegame,Seanan McGuire,4.02
+One Dark Throne,Kendare Blake,4.02
+Picks & Shovels,Cory Doctorow,4.02
+Kushiel's Dart,Jacqueline Carey,4.02
+Written on the Dark,Guy Gavriel Kay,4.02
+The Jennifer Morgue,Charles Stross,4.02
+Evolution,Stephen Baxter,4.02
+The Akata Witch,Nnedi Okorafor,4.02
+The Wall,Gautam Bhatia,4.02
+And Blue Skies from Pain,Stina Leicht,4.02
+The Snow Child,Eowyn Ivey,4.02
+The Passage,Justin Cronin,4.03
+Deep Roots,Ruthanna Emrys,4.03
+The Spiral Labyrinth,Matthew Hughes,4.03
+The Heart of What Was Lost,Tad Williams,4.03
+Rebellion of Thieves,Kekla Magoon,4.03
+Half a War,Joe Abercrombie,4.03
+Once Was Willem,M.R. Carey,4.03
+Raising Steam,Terry Pratchett,4.03
+Alien Clay,Adrian Tchaikovsky,4.03
+Hench,Natalie Zina Walschots,4.03
+The Virtu,Sarah Monette,4.03
+The King's Blood,Daniel Abraham,4.03
+North Sun, Or The Voyage of the Whaleship Esther,Ethan Rutherford,4.03
+This Savage Song,Victoria Schwab,4.03
+Declare,Tim Powers,4.03
+A Thousand Blues,Cheon Seon-Ran,4.04
+Service Model,Adrian Tchaikovsky,4.04
+The Traitor Baru Cormorant,Seth Dickinson,4.04
+The Forbidden Stars,Tim Pratt,4.04
+World of Trouble,Ben H. Winters,4.04
+The Algebraist,Iain M. Banks,4.04
+The Book of Dust: The Secret Commonwealth,Philip Pullman,4.04
+Black House,Stephen King & Peter Straub,4.04
+The Green Glass Sea,Ellen Klages,4.04
+The Red-Stained Wings,Elizabeth Bear,4.04
+Billy Summers,Stephen King,4.04
+The Book of Doors,Gareth Brown,4.04
+The Sinister Mystery of the Mesmerizing Girl,Theodora Goss,4.04
+On the Steel Breeze,Alastair Reynolds,4.04
+Race to the Sun,Rebecca Roanhorse,4.05
+Catfishing on CatNet,Naomi Kritzer,4.05
+An Alchemy of Masques and Mirrors,Curtis Craddock,4.05
+The Dark Defiles,Richard K. Morgan,4.05
+The River Bank,Kij Johnson,4.05
+Good Girls,Glen Hirshberg,4.05
+The Fractal Prince,Hannu Rajaniemi,4.05
+The Storm Weaver & the Sand,Sean Williams,4.05
+Rapture,Kameron Hurley,4.05
+Black Heart,Holly Black,4.05
+Lanny,Max Porter,4.05
+The Last Mortal Bond,Brian Staveley,4.05
+Slow Gods,Claire North,4.05
+Necessary Evil,Ian Tregillis,4.05
+The Underwood Tapes,Amanda DeWitt,4.05
+The Sunless Countries,Karl Schroeder,4.06
+A Dream So Dark,L.L. McKinney,4.06
+Endless Things,John Crowley,4.06
+Regeneration,Stephanie Saulter,4.06
+The Mount,Carol Emshwiller,4.06
+The Leaving Room,Amber McBride,4.06
+Heartless,Gail Carriger,4.06
+Cross Fire,Fonda Lee,4.06
+The Broken Lands,Kate Milford,4.06
+Pacific Storm,Linda Nagata,4.06
+The Goblin Emperor,Katherine Addison,4.06
+Revelation Space,Alastair Reynolds,4.06
+Halcyon Years,Alastair Reynolds,4.06
+City of Bones,Cassandra Clare,4.06
+The Iron Dragon’s Mother,Michael Swanwick,4.07
+An Autumn War,Daniel Abraham,4.07
+Fraternity,Andy Mientus,4.07
+The Mask of Mirrors,M.A. Carrick,4.07
+The Listener,Robert McCammon,4.07
+The Vanished Birds,Simon Jimenez,4.07
+Pushing Ice,Alastair Reynolds,4.07
+Elysium Fire,Alastair Reynolds,4.07
+His Majesty's Dragon,Naomi Novik,4.07
+Fleet Elements,Walter Jon Williams,4.07
+The Moth Girl,Heather Kamins,4.07
+Firebird,Jack McDevitt,4.07
+Sixteen Ways to Defend a Walled City,K.J. Parker,4.07
+Tool of War,Paolo Bacigalupi,4.07
+CryoBurn,Lois McMaster Bujold,4.08
+Saint Death’s Daughter,C.S.E. Cooney,4.08
+The Bronze Key,Holly Black & Cassandra Clare,4.08
+The Three-Body Problem,Cixin Liu,4.08
+Steles of the Sky,Elizabeth Bear,4.08
+Light From Uncommon Stars,Ryka Aoki,4.08
+Europe at Dawn,Dave Hutchinson,4.08
+The Golden Age,John C. Wright,4.08
+The Tyrant's Law,Daniel Abraham,4.08
+Ancillary Sword,Ann Leckie,4.08
+Dreams Bigger Than Heartbreak,Charlie Jane Anders,4.08
+Past the Size of Dreaming,Nina Kiriki Hoffman,4.08
+Spear,Nicola Griffith,4.09
+Atlas Alone,Emma Newman,4.09
+Finders Keepers,Stephen King,4.09
+Poison Study,Maria V. Snyder,4.09
+Beautyland,Marie-Helene Bertino,4.09
+Raven Stratagem,Yoon Ha Lee,4.09
+Alphabet of Thorn,Patricia A. McKillip,4.09
+Who Killed Sherlock Holmes?,Paul Cornell,4.09
+Warchild,Karin Lowachee,4.09
+A Sorceress Comes to Call,T. Kingfisher,4.09
+Powers,Ursula K. Le Guin,4.09
+The Gone-Away World,Nick Harkaway,4.09
+Cold Water,Dave Hutchinson,4.09
+Graceling,Kristin Cashore,4.09
+Flora's Dare,Ysabeau S. Wilce,4.09
+The Widow's House,Daniel Abraham,4.09
+The Emperor's Blades,Brian Staveley,4.09
+The Unbalancing,R.B. Lemberg,4.09
+Conrad's Fate,Diana Wynne Jones,4.09
+The Mirror Season,Anna-Marie McLemore,4.09
+Gwendy’s Final Task,Stephen King & Richard Chizmar,4.09
+How to Rule an Empire and Get Away with It,K.J. Parker,4.09
+The Steel Seraglio, Mike Carey,Linda Carey & Louise Carey,4.1
+The Bezzle,Cory Doctorow,4.1
+Lois Lane: Double Down,Gwenda Bond,4.1
+Coyote Songs,Gabino Iglesias,4.1
+City of Stairs,Robert Jackson Bennett,4.1
+The Salt Oracle,Lorraine Wilson,4.1
+The Origin of Storms,Elizabeth Bear,4.1
+Ash: A Secret History,Mary Gentle,4.1
+Ghosts of Greenglass House,Kate Milford,4.1
+Fevered Star,Rebecca Roanhorse,4.1
+Eona,Alison Goodman,4.1
+Fault Tolerance,Valerie Valdes,4.1
+The Briar Book of the Dead,A.G. Slatter,4.1
+The Silvered Serpents,Roshani Chokshi,4.1
+Echopraxia,Peter Watts,4.1
+Revenant Gun,Yoon Ha Lee,4.11
+The Witness for the Dead,Katherine Addison,4.11
+His Dark Materials Book III: The Amber Spyglass,Philip Pullman,4.11
+Daemonomania,John Crowley,4.11
+The Bird of the River,Kage Baker,4.11
+Matter,Iain M. Banks,4.11
+Providence,Caroline Kepnes,4.11
+Children of Blood and Bone,Tomi Adeyemi,4.11
+Lair of Dreams,Libba Bray,4.11
+Rust in the Root,Justina Ireland,4.11
+Dreadnought,April Daniels,4.11
+Nation,Terry Pratchett,4.11
+Savages,K.J. Parker,4.12
+Year of the Griffin,Diana Wynne Jones,4.12
+Sacred Scars,Kathleen Duey,4.12
+Honeycomb,Joanne M. Harris,4.12
+The Last Emperox,John Scalzi,4.12
+Killing Pretty,Richard Kadrey,4.12
+The Folded Sky,Elizabeth Bear,4.12
+The Warrior Moon,K Arsenault Rivera,4.12
+Abarat: Absolute Midnight,Clive Barker,4.12
+Record of a Spaceborn Few,Becky Chambers,4.12
+Full Fathom Five,Max Gladstone,4.12
+The Breath of the Sun,Rachel Fellman,4.12
+The Golem's Eye,Jonathan Stroud,4.12
+Exo,Steven Gould,4.12
+Corpselight,Angela Slatter,4.12
+Inhibitor Phase,Alastair Reynolds,4.12
+Dreams of Gods & Monsters,Laini Taylor,4.12
+The Dead Withheld,L.D. Lewis,4.12
+The Robots of Gotham,Todd McAulty,4.13
+A Granite Silence,Nina Allan,4.13
+Bury Your Gays,Chuck Tingle,4.13
+The City Beautiful,Aden Polydoros,4.13
+The Collapsing Empire,John Scalzi,4.13
+Out Past the Stars,K.B. Wagers,4.13
+Lost in a Good Book,Jasper Fforde,4.13
+The Price of Spring,Daniel Abraham,4.13
+Days of Blood & Starlight,Laini Taylor,4.13
+Hespira,Matthew Hughes,4.13
+Coraline,Neil Gaiman,4.13
+The Spider's War,Daniel Abraham,4.13
+Child of the Prophecy,Juliet Marillier,4.13
+A Memory Called Empire,Arkady Martine,4.13
+Doctor Sleep,Stephen King,4.13
+The Liberation,Ian Tregillis,4.13
+Band of Gypsys,Gwyneth Jones,4.13
+I Am the River,T.E. Grau,4.13
+Chaos on CatNet,Naomi Kritzer,4.13
+Bitter,Akwaeke Emezi,4.13
+This Poison Heart,Kalynn Bayron,4.14
+A Wizard’s Guide to Defensive Baking,T. Kingfisher,4.14
+Jupiter War,Neal Asher,4.14
+Prophecy,Elizabeth Haydon,4.14
+Unraveller,Frances Hardinge,4.14
+Latchkey,Nicole Kornher-Stace,4.14
+The Hidden Palace,Helene Wecker,4.14
+One Way Witch,Nnedi Okorafor,4.14
+Polity Agent,Neal Asher,4.14
+The Magician's Land,Lev Grossman,4.14
+The Book of Dust: La Belle Sauvage,Philip Pullman,4.15
+Hemlock & Silver,T. Kingfisher,4.15
+Whispers Under Ground,Ben Aaronovitch,4.15
+Otherland: Sea of Silver Light,Tad Williams,4.15
+The Jasmine Throne,Tasha Suri,4.15
+The Skinner,Neal Asher,4.15
+Foundryside,Robert Jackson Bennett,4.16
+Carry On,Rainbow Rowell,4.16
+Dreadful Company,Vivian Shaw,4.16
+Ice,Jacek Dukaj,4.16
+The Raconteur’s Commonplace Book,Kate Milford,4.16
+Redemption Ark,Alastair Reynolds,4.16
+Zahrah the Windseeker,Nnedi Okorafor-Mbachu,4.16
+The Orb of Cairado,Katherine Addison,4.16
+Now I Rise,Kiersten White,4.16
+Nettle & Bone,T. Kingfisher,4.16
+The Golden Enclaves,Naomi Novik,4.16
+Legends & Lattes,Travis Baldree,4.16
+The Angel of Indian Lake,Stephen Graham Jones,4.16
+A Darkling Plain,Philip Reeve,4.16
+Deathless Divide,Justina Ireland,4.16
+Fair Rebel,Steph Swainston,4.17
+The Crown of Embers,Rae Carson,4.17
+River of Stars,Guy Gavriel Kay,4.17
+Waistcoats & Weaponry,Gail Carriger,4.17
+Behemoth,Scott Westerfeld,4.17
+After Atlas,Emma Newman,4.17
+Anathem,Neal Stephenson,4.17
+Under Heaven,Guy Gavriel Kay,4.17
+Hell Followed With Us,Andrew Joseph White,4.17
+Queen Demon,Martha Wells,4.17
+The Perdition Score,Richard Kadrey,4.17
+Moon Witch,Spider King,4.17
+Imperium Restored,Walter Jon Williams,4.17
+Asunder,Kerstin Hall,4.18
+Shroud,Adrian Tchaikovsky,4.18
+The Curse of Chalion,Lois McMaster Bujold,4.18
+The Scholar and the Last Faerie Door,H.G. Parry,4.18
+A Mouthful of Dust,Nghi Vo,4.18
+The Keys to the Kingdom: Grim Tuesday,Garth Nix,4.18
+The Ask and the Answer,Patrick Ness,4.18
+Nimona,Noelle Stevenson,4.18
+Morphotrophic,Greg Egan,4.18
+A Brightness Long Ago,Guy Gavriel Kay,4.18
+Secrets of the First School,T.L. Huchu,4.18
+The Mercy of Gods,James S.A. Corey,4.18
+No Such Thing as Duty,Lara Elena Donnelly,4.18
+Lord Sunday,Garth Nix,4.18
+Kim Jiyoung,Born 1982,4.18
+The Apocalypse Codex,Charles Stross,4.18
+The Scar,China Miéville,4.19
+The Carpet Makers,Andreas Eschbach,4.19
+All the Seas of the World,Guy Gavriel Kay,4.19
+Snuff,Terry Pratchett,4.19
+Storm of Locusts,Rebecca Roanhorse,4.19
+Resurrections,Roz Kaveney,4.19
+Half the World,Joe Abercrombie,4.19
+The Testaments,Margaret Atwood,4.19
+The Fuller Memorandum,Charles Stross,4.19
+Shadowhouse Fall,Daniel José Older,4.19
+Steel Tide,Natalie C. Parker,4.2
+Abarat,Clive Barker,4.2
+The Institute,Stephen King,4.2
+The Invisible Life of Addie LaRue,V.E. Schwab,4.2
+Shards of Earth,Adrian Tchaikovsky,4.2
+The Hydrogen Sonata,Iain M. Banks,4.2
+Foxglove Summer,Ben Aaronovitch,4.2
+The Iron Below Remembers,Sharang Biswas,4.2
+Fire Bringer,David Clement-Davies,4.2
+Knife of Dreams,Robert Jordan,4.2
+The Other Wind,Ursula K. Le Guin,4.2
+Roadsouls,Betsy James,4.2
+Seven Surrenders,Ada Palmer,4.2
+The Wonder Engine,T. Kingfisher,4.2
+Black Light Express,Philip Reeve,4.2
+Eyes of the Void,Adrian Tchaikovsky,4.2
+Captain Vorpatril's Alliance,Lois Mcmaster Bujold,4.21
+Terciel & Elinor,Garth Nix,4.21
+Forests of the Heart,Charles de Lint,4.21
+The Desert Spear,Peter V. Brett,4.21
+Wayward,Chuck Wendig,4.21
+The Republic of Thieves,Scott Lynch,4.21
+Sargassa,Sophie Burnham,4.21
+The Causal Angel,Hannu Rajaniemi,4.21
+Root Magic,Eden Royce,4.21
+Playground,Richard Powers,4.21
+The Fae Keeper,H.E. Edgmon,4.22
+The Book of Guilt,Catherine Chidgey,4.22
+Akata Warrior,Nnedi Okorafor,4.22
+The Folded World,Catherynne M. Valente,4.22
+Comet Weather,Liz Williams,4.22
+The Spear Cuts Through Water,Simon Jimenez,4.22
+Ancillary Mercy,Ann Leckie,4.22
+Goliath,Scott Westerfeld,4.22
+The Blacktongue Thief,Christopher Buehlman,4.22
+The Dream Thieves,Maggie Stiefvater,4.22
+The Shattering Peace,John Scalzi,4.22
+Monster Blood Tattoo, Book Two: Lamplighter,D. M. Cornish,4.22
+Cross Her Heart,Sarah Pinborough,4.23
+Babel,R.F. Kuang,4.23
+Cibola Burn,James S.A. Corey,4.23
+A Tyranny of Queens,Foz Meadows,4.23
+The Sovereign,C.L. Clark,4.23
+Piranesi,Susanna Clarke,4.23
+The Transition,Logan-Ashley Kisner,4.23
+Dark Diamond,Neal Asher,4.23
+The Horizon,Gautam Bhatia,4.23
+Invisible Sun,Charles Stross,4.23
+Look to Windward,Iain M. Banks,4.23
+Old Man's War,John Scalzi,4.23
+The Nightmare Stacks,Charles Stross,4.23
+The Dark Tower,Stephen King,4.24
+City of Dancing Gargoyles,Tara Campbell,4.24
+Lies Sleeping,Ben Aaronovitch,4.24
+Lives of Bitter Rain,Adrian Tchaikovsky,4.24
+The Dragon with a Chocolate Heart,Stephanie Burgis,4.24
+House of Suns,Alastair Reynolds,4.24
+The Last Light of the Sun,Guy Gavriel Kay,4.24
+The Hunger Games,Suzanne Collins,4.24
+Factotum,D. M. Cornish,4.25
+The Everlasting,Alix E. Harrow,4.25
+Shadowshaper Legacy,Daniel José Older,4.25
+Wintersmith,Terry Pratchett,4.25
+Before the Devil Breaks You,Libba Bray,4.25
+Spin,Robert Charles Wilson,4.25
+Sheine Lende,Darcie Little Badger,4.25
+Cloud & Ashes: Three Winter's Tales,Greer Gilman,4.25
+The Painted Man,Peter V. Brett,4.25
+A God in Ruins,Kate Atkinson,4.25
+The Works of Vermin,Hiron Ennes,4.25
+Blue Lily, Lily Blue,Maggie Stiefvater,4.25
+The Delirium Brief,Charles Stross,4.26
+The Jaguar Mask,Michael J. Deluca,4.26
+Fall of the Iron Gods,Olivia Chadha,4.26
+Ready Player One,Ernest Cline,4.26
+Outlaw Planet,M.R. Carey,4.26
+Babylon's Ashes,James S.A. Corey,4.26
+Anansi Boys,Neil Gaiman,4.26
+Paladin’s Strength,T. Kingfisher,4.26
+The Night Circus,Erin Morgenstern,4.26
+Redemptor,Jordan Ifueko,4.26
+Redundancies and Potentials,Dominique Dickey,4.27
+Snake-Eater,T. Kingfisher,4.27
+Making Money,Terry Pratchett,4.27
+The Painting and the City,Robert Freeman Wexler,4.27
+Twilight Robbery,Frances Hardinge,4.27
+Surface Detail,Iain M. Banks,4.27
+Sovereign,April Daniels,4.27
+Shadow and Bone,Leigh Bardugo,4.27
+The Ruin of Angels,Max Gladstone,4.27
+Castles Made of Sand,Gwyneth Jones,4.28
+Thief of Time,Terry Pratchett,4.28
+The Last Graduate,Naomi Novik,4.28
+Deadhouse Gates,Steven Erikson,4.28
+Ptolemy's Gate,Jonathan Stroud,4.28
+The Vengeance of Rome,Michael Moorcock,4.29
+Wicked Problems,Max Gladstone,4.29
+Blood for Blood,Ryan Graudin,4.29
+The Garden of Delights,Amal Singh,4.29
+Daughter of the Forest,Juliet Marillier,4.29
+Kushiel's Chosen,Jacqueline Carey,4.3
+Lord of Emperors,Guy Gavriel Kay,4.3
+Blood Justice,Terry J. Benton-Walker,4.3
+Scrivener's Moon,Philip Reeve,4.3
+The Shadow Speaker,Nnedi Okorafor-Mbachu,4.3
+Needle,Linda Nagata,4.3
+The Tomb of Dragons,Katherine Addison,4.31
+Flesh & Wires,Jackie Hatton,4.31
+Prisoner of Midnight,Barbara Hambly,4.31
+When the Angels Left the Old Country,Sacha Lamb,4.31
+Low Town,Daniel Polansky,4.31
+The Tainted Cup,Robert Jackson Bennett,4.31
+Machine Vendetta,Alastair Reynolds,4.31
+The Faithless Hawk,Margaret Owen,4.31
+The Tongue Trade,Michael J. Martineck,4.32
+Intruder,C. J. Cherryh,4.32
+The Grief of Stones,Katherine Addison,4.32
+Echo of Worlds,M.R. Carey,4.32
+Red Country,Joe Abercrombie,4.32
+In Green's Jungles,Gene Wolfe,4.32
+The Wicked King,Holly Black,4.32
+A Desolation Called Peace,Arkady Martine,4.33
+The Tower at Stony Wood,Patricia A. McKillip,4.33
+Perhaps the Stars,Ada Palmer,4.33
+On the Calculation of Volume III,Solvej Balle,4.33
+A Hat Full of Sky,Terry Pratchett,4.33
+Little Brother,Cory Doctorow,4.33
+The Hunger,Alma Katsu,4.33
+Protector of the Small: Lady Knight,Tamora Pierce,4.33
+Ship of Destiny,Robin Hobb,4.34
+Four Roads Cross,Max Gladstone,4.34
+Protector,C.J. Cherryh,4.34
+The System of the World,Neal Stephenson,4.34
+Nona the Ninth,Tamsyn Muir,4.35
+The Bell at Sealey Head,Patricia A. McKillip,4.35
+Dead Hand Rule,Max Gladstone,4.35
+In Other Lands,Sarah Rees Brennan,4.35
+The Wall of Storms,Ken Liu,4.35
+The Heroes,Joe Abercrombie,4.35
+Emergence,C.J. Cherryh,4.35
+The Oleander Sword,Tasha Suri,4.36
+Thud!,Terry Pratchett,4.36
+Driving the Deep,Suzanne Palmer,4.36
+The Relentless Moon,Mary Robinette Kowal,4.37
+Firesong,William Nicholson,4.37
+Angel Maker,Elizabeth Bear,4.37
+Blackthorn Winter,Liz Williams,4.38
+The Language of Power,Rosemary Kirstein,4.38
+The Adventure of the Demonic Ox,Lois McMaster Bujold,4.38
+Dragon Pearl,Yoon Ha Lee,4.38
+When There Are Wolves Again,E.J. Swift,4.38
+Persepolis Rising,James S.A. Corey,4.38
+Tracker,C.J. Cherryh,4.39
+A Girl Called Rumi,Ari Honarvar,4.39
+The Orphan's Tales: In the Cities of Coin and Spice,Catherynne M. Valente,4.39
+Return to the Whorl,Gene Wolfe,4.39
+The Sentence,Gautam Bhatia,4.4
+The Maid and the Crocodile,Jordan Ifueko,4.4
+Lisey's Story,Stephen King,4.4
+The Feast Makers,H.A. Clarke,4.4
+The Twice-Drowned Saint,C.S.E. Cooney,4.41
+The Truth,Terry Pratchett,4.41
+Embertide,Liz Williams,4.41
+The Essence,Dave Hutchinson,4.41
+Going Postal,Terry Pratchett,4.41
+The Galaxy,and the Ground Within,4.41
+The Pinhoe Egg,Diana Wynne Jones,4.42
+City of Miracles,Robert Jackson Bennett,4.42
+Gemina,Amie Kaufman & Jay Kristoff,4.43
+Jade War,Fonda Lee,4.43
+Unlanguage,Michael Cisco,4.43
+The Rose & the Dagger,Renée Ahdieh,4.44
+No One To Hold the Distant Dead,K.L. Schroeder,4.44
+Days of Shattered Faith,Adrian Tchaikovsky,4.45
+Compound Fracture,Andrew Joseph White,4.45
+Nemesis Games,James S.A. Corey,4.45
+A Little Hatred,Joe Abercrombie,4.45
+Catching Fire,Suzanne Collins,4.45
+Air Logic,Laurie J. Marks,4.47
+The Hod King,Josiah Bancroft,4.47
+The Obelisk Gate,N.K. Jemisin,4.47
+Network Effect,Martha Wells,4.48
+The Scratch Daughters,H.A. Clarke,4.49
+Visitor,C.J. Cherryh,4.49
+Remedy,J.S. Breukelaar,4.5
+Hawk,Steven Brust,4.5
+Night Watch,Terry Pratchett,4.5
+Feed,Mira Grant,4.5
+The Name of the Wind,Patrick Rothfuss,4.5
+The Cruel Prince,Holly Black,4.5
+Deadline,Mira Grant,4.5
+The Ten Thousand Doors of January,Alix E. Harrow,4.5
+Abaddon's Gate,James S.A. Corey,4.5
+Redemption in Indigo,Karen Lord,4.5
+Daughter of Hounds,Caitlín R. Kiernan,4.5
+The Starless Sea,Erin Morgenstern,4.5
+Ship Breaker,Paolo Bacigalupi,4.5
+MaddAddam,Margaret Atwood,4.52
+Starstruck,Aimee Ogden,4.53
+The Blade Itself,Joe Abercrombie,4.54
+The Death of Mountains,Jordan Kurella,4.56
+The Wise Man's Fear,Patrick Rothfuss,4.56
+Nothing in the Basement,Romie Stott,4.56
+The Trouble with Peace,Joe Abercrombie,4.6
+The Wisdom of Crowds,Joe Abercrombie,4.6
+Animals,Geoff Ryman,4.62
+Six of Crows,Leigh Bardugo,4.64
+Jade Legacy,Fonda Lee,4.65
+Airborn,Kenneth Oppel,4.67
+Caliban's War,James S. A. Corey,4.67
+A Dance with Dragons,George R. R. Martin,4.67
+The Baroque Cycle: The Confusion,Neal Stephenson,4.73
+Clariel,Garth Nix,4.77
+Goldenhand,Garth Nix,4.77
+The Shepherd's Crown,Terry Pratchett,4.79
+I Shall Wear Midnight,Terry Pratchett,4.79
+11/22/63,Stephen King,4.83
+The Water Dancer,Ta-Nehisi Coates,5.0
+Pirate Cinema,Cory Doctorow,5.0
+Never Flinch,Stephen King,5.0
+Terminal World,Alastair Reynolds,5.0
+Ironside,Holly Black,5.0
+A Drop of Corruption,Robert Jackson Bennett,5.0
+Perdido Street Station,China Miéville,5.0
+The Sea of Trolls,Nancy Farmer,5.0
+The Girl Who Soared Over Fairyland and Cut the Moon in Two,Catherynne M. Valente,5.0
+Pathfinder,Orson Scott Card,5.0
+Gardens of the Sun,Paul McAuley,5.0
+The Chaos,Nalo Hopkinson,5.0
+The Raven Scholar,Antonia Hodgson,5.0
+The Plot Against America,Philip Roth,5.0
+The Blue Girl,Charles de Lint,5.0
+Blood Engines,T. A. Pratt,5.0
+Interior Chinatown,Charles Yu,5.0
+Evening's Empires,Paul McAuley,5.0
+The River Has Roots,Amal El-Mohtar,5.0
+Spotted Lily,Anna Tambour,5.0
+Inkspell,Cornelia Funke,5.0
+Accelerando,Charles Stross,5.0
+Life After Life,Kate Atkinson,5.0
+The Quiet War,Paul McAuley,5.0
+The White Cat,Holly Black,5.0
+The Night Sessions,Ken MacLeod,5.0
+The Eternal Flame,Greg Egan,5.0
+Spinning Silver,Naomi Novik,5.0
+All Clear,Connie Willis,5.0

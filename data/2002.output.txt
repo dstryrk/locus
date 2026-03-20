@@ -1,0 +1,76 @@
+The Mount,Carol Emshwiller,0
+The Years of Rice and Salt,Kim Stanley Robinson,0.0
+The Portrait of Mrs. Charbuque,Jeffrey Ford,0.0
+The Book of Splendor,Frances Sherwood,0.0
+A Wizard Alone,Diane Duane,0.0
+Stravaganza: City of Masks,Mary Hoffman,0.0
+Just Like Beauty,Lisa Lerner,0.0
+The God Who Begat a Jackal,Nega Mezlekia,0.0
+Altered Carbon,Richard Morgan,0.0
+Dr. Franklin's Island,Ann Halam,3.0
+Evening's Empire,David Herter,3.11
+Vitals,Greg Bear,3.24
+City of the Beasts,Isabel Allende,3.29
+Transcension,Damien Broderick,3.32
+The Alchemist's Door,Lisa Goldstein,3.43
+The Summer Country,James A. Hetley,3.46
+The Red Church,Scott Nicholson,3.48
+Guardian,Joe Haldeman,3.52
+Bones of the Earth,Michael Swanwick,3.52
+Feed,M. T. Anderson,3.55
+Summerland,Michael Chabon,3.57
+A Scattering of Jades,Alexander C. Irvine,3.57
+The Impossible Bird,Patrick O'Leary,3.6
+Spaceland,Rudy Rucker,3.6
+A Winter Haunting,Dan Simmons,3.6
+Light,M. John Harrison,3.61
+Fires of the Faithful,Naomi Kritzer,3.62
+Light Music,Kathleen Ann Goonan,3.64
+Engine City,Ken MacLeod,3.65
+The Omega Expedition,Brian Stableford,3.65
+The Fall of the Kings,Ellen Kushner & Delia Sherman,3.66
+The Separation,Christopher Priest,3.68
+Ruled Britannia,Harry Turtledove,3.7
+White Apples,Jonathan Carroll,3.71
+Probability Space,Nancy Kress,3.73
+The Iron Grail,Robert Holdstock,3.75
+The Isle of Battle,Sean Russell,3.75
+Permanence,Karl Schroeder,3.76
+The Visitor,Sheri S. Tepper,3.81
+The Praxis,Walter Jon Williams,3.83
+Voyage of the Shadowmoon,Sean McMullen,3.84
+Kiln People,David Brin,3.85
+The Lady of the Sorrows,Cecilia Dart-Thornton,3.85
+The Eye of Night,Pauline J. Alama,3.85
+The Atrocity Archive,Charles Stross,3.89
+The Sky So Big and Black,John Barnes,3.9
+Shadow Puppets,Orson Scott Card,3.9
+Chindi,Jack McDevitt,3.9
+The Devil and Deep Space,Susan R. Matthews,3.91
+A Fistful of Sky,Nina Kiriki Hoffman,3.91
+The Facts of Life,Graham Joyce,3.92
+Schild's Ladder,Greg Egan,3.93
+Coyote,Allen Steele,3.94
+Solitaire,Kelley Eskridge,3.97
+Lion's Blood,Steven Barnes,3.98
+A Bed of Earth,Tanith Lee,3.99
+The Thief Lord,Cornelia Funk,3.99
+Effendi: The Second Arabesk,Jon Courtenay Grimwood,4.0
+Ombria in Shadow,Patricia A. McKillip,4.0
+The House of the Scorpion,Nancy Farmer,4.0
+Evolution,Stephen Baxter,4.02
+The Storm Weaver & the Sand,Sean Williams,4.05
+The Golden Age,John C. Wright,4.08
+Warchild,Karin Lowachee,4.09
+Lost in a Good Book,Jasper Fforde,4.13
+Child of the Prophecy,Juliet Marillier,4.13
+Coraline,Neil Gaiman,4.13
+The Skinner,Neal Asher,4.15
+Redemption Ark,Alastair Reynolds,4.16
+The Scar,China Miéville,4.19
+Abarat,Clive Barker,4.2
+Castles Made of Sand,Gwyneth Jones,4.28
+Kushiel's Chosen,Jacqueline Carey,4.3
+Protector of the Small: Lady Knight,Tamora Pierce,4.33
+Firesong,William Nicholson,4.37
+Night Watch,Terry Pratchett,4.5

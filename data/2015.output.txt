@@ -1,0 +1,81 @@
+The Dark Forest,Cixin Liu,0.0
+The Fifth Season,N.K. Jemisin,0.0
+Uprooted,Naomi Novik,0.0
+The Lie Tree,Francis Hardinge,0
+Shadowshaper,Daniel José Older,0.0
+Railhead,Phillip Reeve,0
+Hollowgirl,Sean Williams,0.0
+Magonia,Maria Dahvana Headley,2.0
+Where,Kit Reed,2.59
+Weighing Shadows,Lisa Goldstein,2.97
+The Weave,Nancy Jane Moore,3.24
+The Buried Giant,Kazuo Ishiguro,3.25
+Persona,Genevieve Valentine,3.34
+The Darkside War,Zachary Brown,3.36
+A Borrowed Man,Gene Wolfe,3.39
+The House of Shattered Wings,Aliette de Bodard,3.39
+Corsair,James L. Cambias,3.41
+Last Song Before Night,Ilana C. Myer,3.41
+The Sorcerer of the Wildeeps,Kai Ashante Wilson,3.52
+Galapagos Regained,James Morrow,3.54
+Vermilion,Molly Tanzer,3.57
+Glorious Angels,Justina Robson,3.6
+Clade,James Bradley,3.62
+The Thing Itself,Adam Roberts,3.64
+Abomination,Gary Whitta,3.64
+The Liminal War,Ayize Jama-Everett,3.68
+The Walls Around Us,Nova Ren Suma,3.68
+Dark Orbit,Carolyn Ives Gilman,3.7
+Karen Memory,Elizabeth Bear,3.72
+Nightwise,R.S. Belcher,3.72
+Sorcerer to the Crown,Zen Cho,3.72
+Planetfall,Emma Newman,3.73
+Radiance,Catherynne M. Valente,3.73
+The Watchmaker of Filigree Street,Natasha Pulley,3.73
+Prodigies,Angelica Gorodischer,3.74
+Archivist Wasp,Nicole Kornher-Stace,3.74
+Signal to Noise,Silvia Moreno-Garcia,3.74
+Luna: New Moon,Ian McDonald,3.75
+Zeroes, Scott Westerfeld,Margo Lanagan & Deborah Biancotti,3.75
+The Devourers,Indra Das,3.75
+Beneath London,James P. Blaylock,3.77
+Wylding Hall,Elizabeth Hand,3.77
+Aurora,Kim Stanley Robinson,3.78
+Wonders of the Invisible World,Christopher Barzak,3.78
+Harrison Squared,Daryl Gregory,3.78
+Bone Gap,Laura Ruby,3.8
+The Grace of Kings,Ken Liu,3.8
+Slade House,David Mitchell,3.81
+The Deep Woods,Tim Pratt,3.82
+Archangel,Marguerite Reed,3.82
+Poseidon's Wake,Alastair Reynolds,3.83
+Going Dark,Linda Nagata,3.84
+Pacific Fire,Greg Van Eekhout,3.84
+The Water Knife,Paolo Bacigalupi,3.85
+The Darkest Part of the Forest,Holly Black,3.86
+Chasing the Phoenix,Michael Swanwick,3.87
+Empire Ascendant,Kameron Hurley,3.87
+The Annihilation Score,Charles Stross,3.91
+The Book of Phoenix,Nnedi Okorafor,3.93
+Seveneves,Neal Stephenson,3.93
+The Philosopher Kings,Jo Walton,3.93
+The End of All Things,John Scalzi,4.01
+Europe at Midnight,Dave Hutchinson,4.02
+Half a War,Joe Abercrombie,4.03
+The Traitor Baru Cormorant,Seth Dickinson,4.04
+Regeneration,Stephanie Saulter,4.06
+Finders Keepers,Stephen King,4.09
+Lair of Dreams,Libba Bray,4.11
+Killing Pretty,Richard Kadrey,4.12
+Savages,K.J. Parker,4.12
+Carry On,Rainbow Rowell,4.16
+Nimona,Noelle Stevenson,4.18
+Half the World,Joe Abercrombie,4.19
+Foxglove Summer,Ben Aaronovitch,4.2
+Ancillary Mercy,Ann Leckie,4.22
+A God in Ruins,Kate Atkinson,4.25
+Flesh & Wires,Jackie Hatton,4.31
+Tracker,C.J. Cherryh,4.39
+Nemesis Games,James S.A. Corey,4.45
+Six of Crows,Leigh Bardugo,4.64
+The Shepherd's Crown,Terry Pratchett,4.79

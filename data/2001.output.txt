@@ -1,0 +1,46 @@
+Dervish is Digital,Pat Cadigan,0.0
+Chasm City,Alastair Reynolds,0.0
+The Pickup Artist,Terry Bisson,3.1
+Sister Noon,Karen Joy Fowler,3.1
+The Cassandra Complex,Brian Stableford,3.24
+Appleseed,John Clute,3.32
+The Secret of Life,Paul McAuley,3.36
+Bold as Love,Gwyneth Jones,3.38
+Terraforming Earth,Jack Williamson,3.46
+A Paradigm of Earth,Candas Jane Dorsey,3.47
+Whole Wide World,Paul McAuley,3.5
+Lust,Geoff Ryman,3.52
+Cosmonaut Keep,Ken MacLeod,3.61
+Nekropolis,Maureen F. McHugh,3.65
+Dreamcatcher,Stephen King,3.66
+The Chronoliths,Robert Charles Wilson,3.69
+Dark Light,Ken MacLeod,3.7
+Origin: Manifold 3,Stephen Baxter,3.71
+Passage,Connie Willis,3.72
+Coldheart Canyon,Clive Barker,3.72
+The One Kingdom,Sean Russell,3.72
+From the Dust Returned,Ray Bradbury,3.73
+The Dreamthief's Daughter,Michael Moorcock,3.74
+Probability Sun,Nancy Kress,3.77
+The Wooden Sea,Jonathan Carroll,3.82
+Maelstrom,Peter Watts,3.85
+City of Saints and Madmen,Jeff VanderMeer,3.86
+The Beyond,Jeffrey Ford,3.87
+The Eyre Affair,Jasper Fforde,3.88
+American Gods,Neil Gaiman,3.89
+Metaplanetary,Tony Daniel,3.9
+Manifold: Space,Stephen Baxter,3.91
+Shadow of the Hegemon,Orson Scott Card,3.97
+Eyes of the Calculor,Sean McMullen,4.0
+Kushiel's Dart,Jacqueline Carey,4.02
+Declare,Tim Powers,4.03
+Black House,Stephen King & Peter Straub,4.04
+Revelation Space,Alastair Reynolds,4.06
+Past the Size of Dreaming,Nina Kiriki Hoffman,4.08
+Otherland: Sea of Silver Light,Tad Williams,4.15
+The Curse of Chalion,Lois McMaster Bujold,4.18
+The Other Wind,Ursula K. Le Guin,4.2
+Look to Windward,Iain M. Banks,4.23
+Thief of Time,Terry Pratchett,4.28
+Return to the Whorl,Gene Wolfe,4.39
+Perdido Street Station,China Miéville,5.0

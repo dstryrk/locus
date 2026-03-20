@@ -1,0 +1,72 @@
+Shadow of the Giant,Orson Scott Card,0.0
+Old Twentieth,Joe Haldeman,0.0
+Seeker,Jack McDevitt,0.0
+The Well of Stars,Robert Reed,0.0
+Fifty Degrees Below,Kim Stanley Robinson,0.0
+Tumbling After,Paul Witcover,0.0
+Glass Soup,Jonathan Carroll,0.0
+Lord Byron's Novel: The Evening Land,John Crowley,0.0
+Someone Comes to Town, Someone Leaves Town,Cory Doctorow,0.0
+The Limits of Enchantment,Graham Joyce,0.0
+A Princess of Roumania,Paul Park,0.0
+Hammered/Scardown/Worldwired,Elizabeth Bear,0
+Magic or Madness,Justine Larbalestier,0.0
+Mélusine,Sarah Monette,0.0
+The Sledding Hill,Chris Crutcher,0.0
+Skybreaker,Kenneth Oppel,0.0
+Midnighters Vol. 2: Touching Darkness,Scott Westerfeld,0
+Godplayers,Damien Broderick,2.85
+Double Vision,Tricia Sullivan,3.13
+The Rosetta Codex,Richard Paul Russo,3.29
+Mind's Eye,Paul McAuley,3.3
+Vellum,Hal Duncan,3.32
+A Feast for Crows,George R.R. Martin,3.33
+Pay the Piper: A Rock 'n' Roll Fairy Tale,Jane Yolen & Adam Stemple,3.37
+Living Next Door to the God of Love,Justina Robson,3.38
+The Narrows,Alexander C. Irvine,3.38
+The Prodigal Troll,Charles Coleman Finlay,3.39
+Singer of Souls,Adam Stemple,3.45
+The House of Storms,Ian R. MacLeod,3.47
+Mister Boots,Carol Emshwiller,3.52
+Peeps,Scott Westerfeld,3.54
+Shaman's Crossing,Robin Hobb,3.55
+Rocket Science,Jay Lake,3.57
+The Hidden Family,Charles Stross,3.6
+Orphans of Chaos,John C. Wright,3.6
+Learning the World,Ken MacLeod,3.71
+Snake Agent,Liz Williams,3.72
+9Tail Fox,Jon Courtenay Grimwood,3.73
+Never Let Me Go,Kazuo Ishiguro,3.74
+Bear Daughter,Judith Berman,3.74
+TWOC,Graham Joyce,3.74
+Counting Heads,David Marusek,3.76
+The Serpent Dreamer,Cecelia Holland,3.78
+Fly by Night,Frances Hardinge,3.78
+Fledgling,Octavia E. Butler,3.79
+Valiant,Holly Black,3.79
+Lady of Mazes,Karl Schroeder,3.82
+Mammoth,John Varley,3.82
+Transcendent,Stephen Baxter,3.87
+The Flowing Queen,Kai Meyer,3.88
+The Hallowed Hunt,Lois McMaster Bujold,3.89
+To Crush the Moon,Wil McCarthy,3.91
+The Strange Adventures of Rangergirl,Tim Pratt,3.91
+Olympos,Dan Simmons,3.95
+The World Before,Karen Traviss,3.98
+Od Magic,Patricia A. McKillip,3.99
+Stravaganza: City of Flowers,Mary Hoffman,4.0
+Pushing Ice,Alastair Reynolds,4.07
+Poison Study,Maria V. Snyder,4.09
+Conrad's Fate,Diana Wynne Jones,4.09
+Band of Gypsys,Gwyneth Jones,4.13
+Zahrah the Windseeker,Nnedi Okorafor-Mbachu,4.16
+The Carpet Makers,Andreas Eschbach,4.19
+Knife of Dreams,Robert Jordan,4.2
+Old Man's War,John Scalzi,4.23
+Spin,Robert Charles Wilson,4.25
+Anansi Boys,Neil Gaiman,4.26
+Ptolemy's Gate,Jonathan Stroud,4.28
+Thud!,Terry Pratchett,4.36
+Accelerando,Charles Stross,5.0
+Spotted Lily,Anna Tambour,5.0
+Inkspell,Cornelia Funke,5.0
